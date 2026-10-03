@@ -8,6 +8,7 @@
  * Self-contained on purpose (no relative imports) so Vercel can bundle it as is.
  */
 import { Redis } from '@upstash/redis'
+import postgres from 'postgres'
 import { createClient } from 'redis'
 
 export interface UserStore {
@@ -125,13 +126,84 @@ function findEnv(env: Env, names: string[]): string | undefined {
   return undefined
 }
 
+const TABLE = 'lokation_users'
+
 /**
- * Picks the database from the environment:
+ * Postgres, e.g. Supabase. The table is created on first use, so there's no SQL to
+ * run by hand. Row-level security is switched on with no policies, so Supabase's
+ * public data API can't read it; this function connects as the table's owner,
+ * which RLS doesn't apply to.
+ */
+/**
+ * Drops the query string from a connection URL. Supabase's (via Vercel) carries
+ * extras like `?sslmode=require&supa=base-pooler.x`, and the driver would pass
+ * unknown ones to the server, which rejects them. SSL is set explicitly instead.
+ */
+export function cleanPostgresUrl(url: string): string {
+  try {
+    const u = new URL(url)
+    u.search = ''
+    return u.toString()
+  } catch {
+    return url
+  }
+}
+
+export function postgresStore(rawUrl: string): UserStore {
+  const url = cleanPostgresUrl(rawUrl)
+  const local = /@(localhost|127\.0\.0\.1|\[::1\])[:/]/.test(url)
+  const sql = postgres(url, {
+    ssl: local ? false : 'require',
+    prepare: false, // required by Supabase's connection pooler (transaction mode)
+    max: 1, // one connection per serverless instance
+    idle_timeout: 20,
+    connect_timeout: 10,
+    onnotice: () => {}, // "relation already exists" notices from the setup below
+  })
+
+  let ready: Promise<void> | null = null
+  const ensureTable = () =>
+    (ready ??= (async () => {
+      await sql`
+        create table if not exists ${sql(TABLE)} (
+          key text primary key,
+          value jsonb not null,
+          updated_at timestamptz not null default now()
+        )`
+      await sql`alter table ${sql(TABLE)} enable row level security`
+    })().catch((err) => {
+      ready = null
+      throw err
+    }))
+
+  return {
+    get: async (key) => {
+      await ensureTable()
+      const rows = await sql`select value from ${sql(TABLE)} where key = ${key}`
+      return rows[0]?.value ?? null
+    },
+    set: async (key, value) => {
+      await ensureTable()
+      await sql`
+        insert into ${sql(TABLE)} (key, value, updated_at)
+        values (${key}, ${sql.json(value as postgres.JSONValue)}, now())
+        on conflict (key) do update set value = excluded.value, updated_at = now()`
+    },
+  }
+}
+
+/**
+ * Picks the database from the environment, first match wins:
+ * - Postgres (POSTGRES_URL / DATABASE_URL / SUPABASE_DB_URL), which Vercel's
+ *   Supabase integration provides;
  * - Upstash's HTTP API (KV_REST_API_URL + KV_REST_API_TOKEN, or UPSTASH_REDIS_REST_*),
- *   which Vercel's "Upstash for Redis" integration provides; or
+ *   which Vercel's "Upstash for Redis" integration provides;
  * - any Redis server URL (REDIS_URL / KV_URL), e.g. Vercel's "Redis" integration.
  */
 export function storeFromEnv(env: Env): StoreResult {
+  const postgresUrl = findEnv(env, ['POSTGRES_URL', 'DATABASE_URL', 'SUPABASE_DB_URL', 'POSTGRES_URL_NON_POOLING'])
+  if (postgresUrl) return { kind: 'postgres', store: postgresStore(postgresUrl) }
+
   const restUrl = findEnv(env, ['KV_REST_API_URL', 'UPSTASH_REDIS_REST_URL'])
   const restToken = findEnv(env, ['KV_REST_API_TOKEN', 'UPSTASH_REDIS_REST_TOKEN'])
   if (restUrl && restToken) {
@@ -174,13 +246,13 @@ export function storeFromEnv(env: Env): StoreResult {
   }
 
   // Names only, never values: they're what's needed to tell what went wrong.
-  const seen = Object.keys(env).filter((k) => /REDIS|UPSTASH|(^|_)KV_/i.test(k))
+  const seen = Object.keys(env).filter((k) => /SUPABASE|POSTGRES|DATABASE_URL|REDIS|UPSTASH|(^|_)KV_/i.test(k))
   return {
     error: seen.length
-      ? `The database is not configured: found ${seen.join(', ')}, but not a full set of connection settings. ` +
-        'Reconnect the Upstash database to this project in Vercel, then redeploy.'
-      : 'The database is not configured: no database settings found. In Vercel, open Storage, connect an ' +
-        'Upstash for Redis database to this project for all environments, then redeploy.',
+      ? `The database is not configured: found ${seen.join(', ')}, but no connection string. ` +
+        'In Vercel, reconnect the Supabase database to this project (or add POSTGRES_URL), then redeploy.'
+      : 'The database is not configured: no database settings found. In Vercel, open Storage, connect a ' +
+        'Supabase database to this project for all environments, then redeploy.',
   }
 }
 

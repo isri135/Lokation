@@ -1,7 +1,32 @@
 import { describe, expect, it } from 'vitest'
-import { createHandler, storeFromEnv } from '../../api/user'
+import { cleanPostgresUrl, createHandler, storeFromEnv } from '../../api/user'
 
 describe('storeFromEnv', () => {
+  it('uses Postgres (Supabase via Vercel) when a connection string is set, ahead of Redis', () => {
+    const r = storeFromEnv({
+      POSTGRES_URL: 'postgres://u:p@aws-0.pooler.supabase.com:6543/postgres?sslmode=require',
+      KV_REST_API_URL: 'https://example.upstash.io',
+      KV_REST_API_TOKEN: 't',
+    })
+    expect('kind' in r && r.kind).toBe('postgres')
+  })
+
+  it('accepts DATABASE_URL and a custom-prefixed POSTGRES_URL', () => {
+    for (const env of [
+      { DATABASE_URL: 'postgres://u:p@db.example.supabase.co:5432/postgres' },
+      { LOKATION_POSTGRES_URL: 'postgres://u:p@db.example.supabase.co:5432/postgres' },
+    ]) {
+      const r = storeFromEnv(env)
+      expect('kind' in r && r.kind).toBe('postgres')
+    }
+  })
+
+  it('strips connection-string extras the driver would forward to the server', () => {
+    expect(cleanPostgresUrl('postgres://u:p%40ss@host:6543/postgres?sslmode=require&supa=base-pooler.x')).toBe(
+      'postgres://u:p%40ss@host:6543/postgres',
+    )
+  })
+
   it('uses Upstash’s HTTP API with the names Vercel’s integration sets', () => {
     const r = storeFromEnv({ KV_REST_API_URL: 'https://example.upstash.io', KV_REST_API_TOKEN: 't' })
     expect('kind' in r && r.kind).toBe('upstash-rest')
@@ -37,6 +62,6 @@ describe('storeFromEnv', () => {
 
     const res = await createHandler(() => r)(new Request('http://localhost/api/user?name=Alex'))
     expect(res.status).toBe(503)
-    expect((await res.json()).error).toMatch(/connect an Upstash for Redis database/)
+    expect((await res.json()).error).toMatch(/connect a Supabase database/)
   })
 })
