@@ -24,7 +24,7 @@ function devApi(): Plugin {
       writeFileSync(file, JSON.stringify({ ...read(), [key]: value }, null, 2))
     },
   }
-  const handle = createHandler(() => store)
+  const handle = createHandler(() => ({ store, kind: 'dev-file' }))
 
   return {
     name: 'lokation-dev-api',
