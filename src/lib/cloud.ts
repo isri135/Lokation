@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import type { CountryVisit, Visit } from '../types'
-import { loadLegacyHidden, NO_HIDDEN, sanitizeHidden, type Hidden } from './useHidden'
-import { loadLegacyLog, sanitizeTravelLog } from './useVisits'
+import { clearLegacyHidden, loadLegacyHidden, NO_HIDDEN, sanitizeHidden, type Hidden } from './useHidden'
+import { clearLegacyLog, loadLegacyLog, sanitizeTravelLog } from './useVisits'
 
 /** Everything stored for one person. */
 export interface UserData {
@@ -66,6 +66,18 @@ function writeCache(name: string, data: UserData, unsaved: boolean) {
   }
 }
 
+/** Whether a different name has a cached map in this browser, i.e. has signed in here. */
+function someoneElseSignedInHere(name: string): boolean {
+  const s = storage()
+  if (!s) return false
+  const mine = cacheKey(name)
+  for (let i = 0; i < s.length; i++) {
+    const key = s.key(i)
+    if (key?.startsWith('lokation.cache.') && key !== mine) return true
+  }
+  return false
+}
+
 async function errorMessage(res: Response): Promise<string> {
   try {
     const body = await res.json()
@@ -105,10 +117,30 @@ export async function signIn(rawName: string): Promise<SignInResult> {
   let data: UserData
   let unsaved = false
   if (body.data === null) {
-    const log = loadLegacyLog()
-    const hidden = loadLegacyHidden()
-    data = { ...(log ?? EMPTY), hidden: hidden ?? NO_HIDDEN }
-    unsaved = log !== null || hidden !== null
+    const pending = readCache(body.name)
+    if (pending?.unsaved) {
+      // This person's first upload hasn't reached the server yet; keep trying with it.
+      data = pending
+      unsaved = true
+    } else if (someoneElseSignedInHere(body.name)) {
+      // An earlier version handed the pre-sign-in map to every new name and never
+      // cleared it. If anyone has signed in on this browser before, it's been claimed.
+      clearLegacyLog()
+      clearLegacyHidden()
+      data = EMPTY
+    } else {
+      // The map this browser kept before sign-in existed goes to the first name that
+      // signs in here, and only that one: it's cleared so later names start empty.
+      const log = loadLegacyLog()
+      const hidden = loadLegacyHidden()
+      data = { ...(log ?? EMPTY), hidden: hidden ?? NO_HIDDEN }
+      unsaved = log !== null || hidden !== null
+      if (unsaved) {
+        writeCache(body.name, data, true) // keep a copy before clearing the originals
+        clearLegacyLog()
+        clearLegacyHidden()
+      }
+    }
   } else {
     data = sanitizeUserData(body.data)
     // Edits made offline last time win over the server copy.

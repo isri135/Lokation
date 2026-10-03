@@ -192,3 +192,13 @@ export function useVisits(initial: TravelLog) {
     clear,
   }
 }
+
+/** Called once the pre-sign-in log has been given to an account, so no one else picks it up. */
+export function clearLegacyLog() {
+  try {
+    localStorage.removeItem(LEGACY_VISITS_KEY)
+    localStorage.removeItem(LEGACY_COUNTRIES_KEY)
+  } catch {
+    // Nothing to clear if storage is unavailable.
+  }
+}

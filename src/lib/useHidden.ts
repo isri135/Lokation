@@ -53,3 +53,12 @@ export function useHidden(initial: Hidden) {
 
   return { hidden, hideCity, hideCountry, unhideAll }
 }
+
+/** Called once the pre-sign-in hides have been given to an account. */
+export function clearLegacyHidden() {
+  try {
+    localStorage.removeItem(LEGACY_KEY)
+  } catch {
+    // Nothing to clear if storage is unavailable.
+  }
+}
