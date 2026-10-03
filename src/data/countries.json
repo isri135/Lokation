@@ -1,0 +1,9091 @@
+[
+ {
+  "code": "AD",
+  "iso3": "AND",
+  "numeric": "020",
+  "name": "Andorra",
+  "capital": "Andorra la Vella",
+  "area": 468,
+  "population": 77006,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇦🇩",
+  "lat": 42.5,
+  "lng": 1.5,
+  "aliases": [
+   "AND",
+   "Principality of Andorra",
+   "Principat d'Andorra"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Catalan"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "FR",
+   "ES"
+  ],
+  "priceLevel": 0.756,
+  "priceYear": 2021,
+  "visitorSpend": 232,
+  "spendYear": 2019
+ },
+ {
+  "code": "AE",
+  "iso3": "ARE",
+  "numeric": "784",
+  "name": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "area": 82880,
+  "population": 9630959,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇦🇪",
+  "lat": 24,
+  "lng": 54,
+  "aliases": [
+   "ARE",
+   "UAE",
+   "Emirates"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "United Arab Emirates dirham"
+  ],
+  "landlocked": false,
+  "borders": [
+   "OM",
+   "SA"
+  ],
+  "priceLevel": 0.698,
+  "priceYear": 2024,
+  "visitorSpend": 1519,
+  "spendYear": 2019
+ },
+ {
+  "code": "AF",
+  "iso3": "AFG",
+  "numeric": "004",
+  "name": "Afghanistan",
+  "capital": "Kabul",
+  "area": 647500,
+  "population": 37172386,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇦🇫",
+  "lat": 33,
+  "lng": 65,
+  "aliases": [
+   "AFG",
+   "Islamic Republic of Afghanistan",
+   "Afġānistān"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Dari",
+   "Pashto",
+   "Turkmen"
+  ],
+  "currencies": [
+   "Afghan afghani"
+  ],
+  "landlocked": true,
+  "borders": [
+   "IR",
+   "PK",
+   "TM",
+   "UZ",
+   "TJ",
+   "CN"
+  ],
+  "priceLevel": 0.206,
+  "priceYear": 2020,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "AG",
+  "iso3": "ATG",
+  "numeric": "028",
+  "name": "Antigua and Barbuda",
+  "capital": "St. John's",
+  "area": 443,
+  "population": 96286,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇦🇬",
+  "lat": 17.05,
+  "lng": -61.8,
+  "aliases": [
+   "ATG"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.822,
+  "priceYear": 2024,
+  "visitorSpend": 958,
+  "spendYear": 2019
+ },
+ {
+  "code": "AI",
+  "iso3": "AIA",
+  "numeric": "660",
+  "name": "Anguilla",
+  "capital": "The Valley",
+  "area": 102,
+  "population": 13254,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇦🇮",
+  "lat": 18.25,
+  "lng": -63.16666666,
+  "aliases": [
+   "AIA"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "AL",
+  "iso3": "ALB",
+  "numeric": "008",
+  "name": "Albania",
+  "capital": "Tirana",
+  "area": 28748,
+  "population": 2866376,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇦🇱",
+  "lat": 41,
+  "lng": 20,
+  "aliases": [
+   "ALB",
+   "Republic of Albania",
+   "Shqipëri",
+   "Shqipëria",
+   "Shqipnia"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Albanian"
+  ],
+  "currencies": [
+   "Albanian lek"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ME",
+   "GR",
+   "MK",
+   "XK"
+  ],
+  "priceLevel": 0.492,
+  "priceYear": 2024,
+  "visitorSpend": 384,
+  "spendYear": 2019
+ },
+ {
+  "code": "AM",
+  "iso3": "ARM",
+  "numeric": "051",
+  "name": "Armenia",
+  "capital": "Yerevan",
+  "area": 29800,
+  "population": 3090500,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇦🇲",
+  "lat": 40,
+  "lng": 45,
+  "aliases": [
+   "ARM",
+   "Republic of Armenia",
+   "Hayastan",
+   "Հայաստանի Հանրապետություն"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Armenian"
+  ],
+  "currencies": [
+   "Armenian dram"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AZ",
+   "GE",
+   "IR",
+   "TR"
+  ],
+  "priceLevel": 0.401,
+  "priceYear": 2024,
+  "visitorSpend": 820,
+  "spendYear": 2019
+ },
+ {
+  "code": "AO",
+  "iso3": "AGO",
+  "numeric": "024",
+  "name": "Angola",
+  "capital": "Luanda",
+  "area": 1246700,
+  "population": 30809762,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇦🇴",
+  "lat": -12.5,
+  "lng": 18.5,
+  "aliases": [
+   "AGO",
+   "Republic of Angola",
+   "República de Angola",
+   "ʁɛpublika de an'ɡɔla"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "Angolan kwanza"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CG",
+   "CD",
+   "ZM",
+   "NA"
+  ],
+  "priceLevel": 0.358,
+  "priceYear": 2024,
+  "visitorSpend": 1812,
+  "spendYear": 2019
+ },
+ {
+  "code": "AQ",
+  "iso3": "ATA",
+  "numeric": "010",
+  "name": "Antarctica",
+  "capital": "",
+  "area": 14000000,
+  "population": 0,
+  "continent": "AN",
+  "sovereign": false,
+  "flag": "🇦🇶",
+  "lat": -90,
+  "lng": 0,
+  "aliases": [
+   "ATA"
+  ],
+  "subregion": "AN",
+  "languages": [],
+  "currencies": [],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "AR",
+  "iso3": "ARG",
+  "numeric": "032",
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "area": 2766890,
+  "population": 44494502,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇦🇷",
+  "lat": -34,
+  "lng": -64,
+  "aliases": [
+   "ARG",
+   "Argentine Republic",
+   "República Argentina"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Guaraní",
+   "Spanish"
+  ],
+  "currencies": [
+   "Argentine peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BO",
+   "BR",
+   "CL",
+   "PY",
+   "UY"
+  ],
+  "priceLevel": 0.453,
+  "priceYear": 2021,
+  "visitorSpend": 764,
+  "spendYear": 2019
+ },
+ {
+  "code": "AS",
+  "iso3": "ASM",
+  "numeric": "016",
+  "name": "American Samoa",
+  "capital": "Pago Pago",
+  "area": 199,
+  "population": 55465,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇦🇸",
+  "lat": -14.33333333,
+  "lng": -170,
+  "aliases": [
+   "ASM",
+   "Amerika Sāmoa",
+   "Amelika Sāmoa",
+   "Sāmoa Amelika"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Samoan"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.903,
+  "priceYear": 2021,
+  "visitorSpend": 1100,
+  "spendYear": 2017
+ },
+ {
+  "code": "AT",
+  "iso3": "AUT",
+  "numeric": "040",
+  "name": "Austria",
+  "capital": "Vienna",
+  "area": 83858,
+  "population": 8847037,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇦🇹",
+  "lat": 47.33333333,
+  "lng": 13.33333333,
+  "aliases": [
+   "AUT",
+   "Republic of Austria",
+   "Osterreich",
+   "Oesterreich"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Austro-Bavarian German"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CZ",
+   "DE",
+   "HU",
+   "IT",
+   "LI",
+   "SK",
+   "SI",
+   "CH"
+  ],
+  "priceLevel": 0.78,
+  "priceYear": 2024,
+  "visitorSpend": 813,
+  "spendYear": 2019
+ },
+ {
+  "code": "AU",
+  "iso3": "AUS",
+  "numeric": "036",
+  "name": "Australia",
+  "capital": "Canberra",
+  "area": 7686850,
+  "population": 24992369,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇦🇺",
+  "lat": -27,
+  "lng": 133,
+  "aliases": [
+   "AUS",
+   "Commonwealth of Australia"
+  ],
+  "subregion": "Australia and New Zealand",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Australian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.942,
+  "priceYear": 2024,
+  "visitorSpend": 5066,
+  "spendYear": 2019
+ },
+ {
+  "code": "AW",
+  "iso3": "ABW",
+  "numeric": "533",
+  "name": "Aruba",
+  "capital": "Oranjestad",
+  "area": 193,
+  "population": 105845,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇦🇼",
+  "lat": 12.5,
+  "lng": -69.96666666,
+  "aliases": [
+   "ABW"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   "Aruban florin"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.845,
+  "priceYear": 2021,
+  "visitorSpend": 1081,
+  "spendYear": 2019
+ },
+ {
+  "code": "AX",
+  "iso3": "ALA",
+  "numeric": "248",
+  "name": "Åland Islands",
+  "capital": "Mariehamn",
+  "area": 1580,
+  "population": 26711,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇦🇽",
+  "lat": 60.116667,
+  "lng": 19.9,
+  "aliases": [
+   "ALA",
+   "Aland Islands",
+   "Aaland",
+   "Aland",
+   "Ahvenanmaa"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Swedish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "AZ",
+  "iso3": "AZE",
+  "numeric": "031",
+  "name": "Azerbaijan",
+  "capital": "Baku",
+  "area": 86600,
+  "population": 10224900,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇦🇿",
+  "lat": 40.5,
+  "lng": 47.5,
+  "aliases": [
+   "AZE",
+   "Republic of Azerbaijan",
+   "Azərbaycan Respublikası"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Azerbaijani",
+   "Russian"
+  ],
+  "currencies": [
+   "Azerbaijani manat"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AM",
+   "GE",
+   "IR",
+   "RU",
+   "TR"
+  ],
+  "priceLevel": 0.311,
+  "priceYear": 2024,
+  "visitorSpend": 632,
+  "spendYear": 2019
+ },
+ {
+  "code": "BA",
+  "iso3": "BIH",
+  "numeric": "070",
+  "name": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "area": 51129,
+  "population": 3323929,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇧🇦",
+  "lat": 44,
+  "lng": 18,
+  "aliases": [
+   "BIH",
+   "Bosnia-Herzegovina",
+   "Босна и Херцеговина"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Bosnian",
+   "Croatian",
+   "Serbian"
+  ],
+  "currencies": [
+   "Bosnia and Herzegovina convertible mark"
+  ],
+  "landlocked": false,
+  "borders": [
+   "HR",
+   "ME",
+   "RS"
+  ],
+  "priceLevel": 0.407,
+  "priceYear": 2024,
+  "visitorSpend": 1023,
+  "spendYear": 2019
+ },
+ {
+  "code": "BB",
+  "iso3": "BRB",
+  "numeric": "052",
+  "name": "Barbados",
+  "capital": "Bridgetown",
+  "area": 431,
+  "population": 286641,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇧🇧",
+  "lat": 13.16666666,
+  "lng": -59.53333333,
+  "aliases": [
+   "BRB"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Barbadian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.319,
+  "priceYear": 2021,
+  "visitorSpend": 873,
+  "spendYear": 2016
+ },
+ {
+  "code": "BD",
+  "iso3": "BGD",
+  "numeric": "050",
+  "name": "Bangladesh",
+  "capital": "Dhaka",
+  "area": 144000,
+  "population": 161356039,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇧🇩",
+  "lat": 24,
+  "lng": 90,
+  "aliases": [
+   "BGD",
+   "People's Republic of Bangladesh",
+   "Gônôprôjatôntri Bangladesh"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Bengali"
+  ],
+  "currencies": [
+   "Bangladeshi taka"
+  ],
+  "landlocked": false,
+  "borders": [
+   "MM",
+   "IN"
+  ],
+  "priceLevel": 0.285,
+  "priceYear": 2024,
+  "visitorSpend": 1211,
+  "spendYear": 2019
+ },
+ {
+  "code": "BE",
+  "iso3": "BEL",
+  "numeric": "056",
+  "name": "Belgium",
+  "capital": "Brussels",
+  "area": 30510,
+  "population": 11422068,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇧🇪",
+  "lat": 50.83333333,
+  "lng": 4,
+  "aliases": [
+   "BEL",
+   "Kingdom of Belgium",
+   "België",
+   "Belgie",
+   "Belgien",
+   "Belgique",
+   "Koninkrijk België",
+   "Royaume de Belgique",
+   "Königreich Belgien"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "German",
+   "French",
+   "Dutch"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "FR",
+   "DE",
+   "LU",
+   "NL"
+  ],
+  "priceLevel": 0.814,
+  "priceYear": 2024,
+  "visitorSpend": 1133,
+  "spendYear": 2019
+ },
+ {
+  "code": "BF",
+  "iso3": "BFA",
+  "numeric": "854",
+  "name": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "area": 274200,
+  "population": 19751535,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇧🇫",
+  "lat": 13,
+  "lng": -2,
+  "aliases": [
+   "BFA"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "BJ",
+   "CI",
+   "GH",
+   "ML",
+   "NE",
+   "TG"
+  ],
+  "priceLevel": 0.329,
+  "priceYear": 2024,
+  "visitorSpend": 1210,
+  "spendYear": 2019
+ },
+ {
+  "code": "BG",
+  "iso3": "BGR",
+  "numeric": "100",
+  "name": "Bulgaria",
+  "capital": "Sofia",
+  "area": 110910,
+  "population": 7000039,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇧🇬",
+  "lat": 43,
+  "lng": 25,
+  "aliases": [
+   "BGR",
+   "Republic of Bulgaria",
+   "Република България"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Bulgarian"
+  ],
+  "currencies": [
+   "Bulgarian lev"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GR",
+   "MK",
+   "RO",
+   "RS",
+   "TR"
+  ],
+  "priceLevel": 0.422,
+  "priceYear": 2024,
+  "visitorSpend": 385,
+  "spendYear": 2019
+ },
+ {
+  "code": "BH",
+  "iso3": "BHR",
+  "numeric": "048",
+  "name": "Bahrain",
+  "capital": "Manama",
+  "area": 665,
+  "population": 1569439,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇧🇭",
+  "lat": 26,
+  "lng": 50.55,
+  "aliases": [
+   "BHR",
+   "Kingdom of Bahrain",
+   "Mamlakat al-Baḥrayn"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Bahraini dinar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.502,
+  "priceYear": 2024,
+  "visitorSpend": 349,
+  "spendYear": 2019
+ },
+ {
+  "code": "BI",
+  "iso3": "BDI",
+  "numeric": "108",
+  "name": "Burundi",
+  "capital": "Gitega",
+  "area": 27830,
+  "population": 11175378,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇧🇮",
+  "lat": -3.5,
+  "lng": 30,
+  "aliases": [
+   "BDI",
+   "Republic of Burundi",
+   "Republika y'Uburundi",
+   "République du Burundi"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "French",
+   "Kirundi"
+  ],
+  "currencies": [
+   "Burundian franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CD",
+   "RW",
+   "TZ"
+  ],
+  "priceLevel": 0.357,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "BJ",
+  "iso3": "BEN",
+  "numeric": "204",
+  "name": "Benin",
+  "capital": "Porto-Novo",
+  "area": 112620,
+  "population": 11485048,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇧🇯",
+  "lat": 9.5,
+  "lng": 2.25,
+  "aliases": [
+   "BEN",
+   "Republic of Benin",
+   "République du Bénin"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BF",
+   "NE",
+   "NG",
+   "TG"
+  ],
+  "priceLevel": 0.329,
+  "priceYear": 2024,
+  "visitorSpend": 715,
+  "spendYear": 2019
+ },
+ {
+  "code": "BL",
+  "iso3": "BLM",
+  "numeric": "652",
+  "name": "Saint Barthélemy",
+  "capital": "Gustavia",
+  "area": 21,
+  "population": 8450,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇧🇱",
+  "lat": 18.5,
+  "lng": -63.41666666,
+  "aliases": [
+   "BLM",
+   "Saint Barthelemy",
+   "Collectivity of Saint Barthélemy",
+   "St. Barthelemy",
+   "Collectivité de Saint-Barthélemy"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "BM",
+  "iso3": "BMU",
+  "numeric": "060",
+  "name": "Bermuda",
+  "capital": "Hamilton",
+  "area": 53,
+  "population": 63968,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇧🇲",
+  "lat": 32.33333333,
+  "lng": -64.75,
+  "aliases": [
+   "BMU",
+   "The Islands of Bermuda",
+   "The Bermudas",
+   "Somers Isles"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Bermudian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.441,
+  "priceYear": 2021,
+  "visitorSpend": 747,
+  "spendYear": 2019
+ },
+ {
+  "code": "BN",
+  "iso3": "BRN",
+  "numeric": "096",
+  "name": "Brunei",
+  "capital": "Bandar Seri Begawan",
+  "area": 5770,
+  "population": 428962,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇧🇳",
+  "lat": 4.5,
+  "lng": 114.66666666,
+  "aliases": [
+   "BRN",
+   "Nation of Brunei, Abode of Peace",
+   "Brunei Darussalam",
+   "Nation of Brunei",
+   "the Abode of Peace"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Malay"
+  ],
+  "currencies": [
+   "Brunei dollar",
+   "Singapore dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "MY"
+  ],
+  "priceLevel": 0.406,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "BO",
+  "iso3": "BOL",
+  "numeric": "068",
+  "name": "Bolivia",
+  "capital": "Sucre",
+  "area": 1098580,
+  "population": 11353142,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇧🇴",
+  "lat": -17,
+  "lng": -65,
+  "aliases": [
+   "BOL",
+   "Plurinational State of Bolivia",
+   "Buliwya",
+   "Wuliwya",
+   "Bolivia, Plurinational State of",
+   "Estado Plurinacional de Bolivia",
+   "Buliwya Mamallaqta",
+   "Wuliwya Suyu",
+   "Tetã Volívia"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Aymara",
+   "Guaraní",
+   "Quechua",
+   "Spanish"
+  ],
+  "currencies": [
+   "Bolivian boliviano"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AR",
+   "BR",
+   "CL",
+   "PY",
+   "PE"
+  ],
+  "priceLevel": 0.336,
+  "priceYear": 2024,
+  "visitorSpend": 789,
+  "spendYear": 2019
+ },
+ {
+  "code": "BQ",
+  "iso3": "BES",
+  "numeric": "535",
+  "name": "Caribbean Netherlands",
+  "capital": "",
+  "area": 328,
+  "population": 18012,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "",
+  "lat": 12.18,
+  "lng": -68.25,
+  "aliases": [
+   "BES",
+   "Bonaire, Saint Eustatius and Saba ",
+   "Bonaire, Sint Eustatius and Saba",
+   "BES islands",
+   "Bonaire Sint Eustatius and Saba"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English",
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "BR",
+  "iso3": "BRA",
+  "numeric": "076",
+  "name": "Brazil",
+  "capital": "Brasilia",
+  "area": 8511965,
+  "population": 209469333,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇧🇷",
+  "lat": -10,
+  "lng": -55,
+  "aliases": [
+   "BRA",
+   "Federative Republic of Brazil",
+   "Brasil",
+   "República Federativa do Brasil"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "Brazilian real"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AR",
+   "BO",
+   "CO",
+   "GF",
+   "GY",
+   "PY",
+   "PE",
+   "SR",
+   "UY",
+   "VE"
+  ],
+  "priceLevel": 0.468,
+  "priceYear": 2024,
+  "visitorSpend": 964,
+  "spendYear": 2019
+ },
+ {
+  "code": "BS",
+  "iso3": "BHS",
+  "numeric": "044",
+  "name": "Bahamas",
+  "capital": "Nassau",
+  "area": 13940,
+  "population": 385640,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇧🇸",
+  "lat": 24.25,
+  "lng": -76,
+  "aliases": [
+   "BHS",
+   "Commonwealth of the Bahamas"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Bahamian dollar",
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.107,
+  "priceYear": 2024,
+  "visitorSpend": 572,
+  "spendYear": 2019
+ },
+ {
+  "code": "BT",
+  "iso3": "BTN",
+  "numeric": "064",
+  "name": "Bhutan",
+  "capital": "Thimphu",
+  "area": 47000,
+  "population": 754394,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇧🇹",
+  "lat": 27.5,
+  "lng": 90.5,
+  "aliases": [
+   "BTN",
+   "Kingdom of Bhutan"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Dzongkha"
+  ],
+  "currencies": [
+   "Bhutanese ngultrum",
+   "Indian rupee"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CN",
+   "IN"
+  ],
+  "priceLevel": 0.25,
+  "priceYear": 2024,
+  "visitorSpend": 380,
+  "spendYear": 2019
+ },
+ {
+  "code": "BV",
+  "iso3": "BVT",
+  "numeric": "074",
+  "name": "Bouvet Island",
+  "capital": "",
+  "area": 49,
+  "population": 0,
+  "continent": "AN",
+  "sovereign": false,
+  "flag": "🇧🇻",
+  "lat": -54.43333333,
+  "lng": 3.4,
+  "aliases": [
+   "BVT",
+   "Bouvetøya",
+   "Bouvet-øya"
+  ],
+  "subregion": "AN",
+  "languages": [
+   "Norwegian"
+  ],
+  "currencies": [],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "BW",
+  "iso3": "BWA",
+  "numeric": "072",
+  "name": "Botswana",
+  "capital": "Gaborone",
+  "area": 600370,
+  "population": 2254126,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇧🇼",
+  "lat": -22,
+  "lng": 24,
+  "aliases": [
+   "BWA",
+   "Republic of Botswana",
+   "Lefatshe la Botswana"
+  ],
+  "subregion": "Southern Africa",
+  "languages": [
+   "English",
+   "Tswana"
+  ],
+  "currencies": [
+   "Botswana pula"
+  ],
+  "landlocked": true,
+  "borders": [
+   "NA",
+   "ZA",
+   "ZM",
+   "ZW"
+  ],
+  "priceLevel": 0.392,
+  "priceYear": 2024,
+  "visitorSpend": 319,
+  "spendYear": 2018
+ },
+ {
+  "code": "BY",
+  "iso3": "BLR",
+  "numeric": "112",
+  "name": "Belarus",
+  "capital": "Minsk",
+  "area": 207600,
+  "population": 9485386,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇧🇾",
+  "lat": 53,
+  "lng": 28,
+  "aliases": [
+   "BLR",
+   "Republic of Belarus",
+   "Bielaruś",
+   "Белоруссия",
+   "Республика Белоруссия"
+  ],
+  "subregion": "Eastern Europe",
+  "languages": [
+   "Belarusian",
+   "Russian"
+  ],
+  "currencies": [
+   "Belarusian ruble"
+  ],
+  "landlocked": true,
+  "borders": [
+   "LV",
+   "LT",
+   "PL",
+   "RU",
+   "UA"
+  ],
+  "priceLevel": 0.252,
+  "priceYear": 2024,
+  "visitorSpend": 109,
+  "spendYear": 2019
+ },
+ {
+  "code": "BZ",
+  "iso3": "BLZ",
+  "numeric": "084",
+  "name": "Belize",
+  "capital": "Belmopan",
+  "area": 22966,
+  "population": 383071,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇧🇿",
+  "lat": 17.25,
+  "lng": -88.75,
+  "aliases": [
+   "BLZ"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Belizean Creole",
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   "Belize dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GT",
+   "MX"
+  ],
+  "priceLevel": 0.553,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CA",
+  "iso3": "CAN",
+  "numeric": "124",
+  "name": "Canada",
+  "capital": "Ottawa",
+  "area": 9984670,
+  "population": 37058856,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇨🇦",
+  "lat": 60,
+  "lng": -95,
+  "aliases": [
+   "CAN"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currencies": [
+   "Canadian dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "US"
+  ],
+  "priceLevel": 0.906,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CC",
+  "iso3": "CCK",
+  "numeric": "166",
+  "name": "Cocos (Keeling) Islands",
+  "capital": "West Island",
+  "area": 14,
+  "population": 628,
+  "continent": "AS",
+  "sovereign": false,
+  "flag": "🇨🇨",
+  "lat": -12.5,
+  "lng": 96.83333333,
+  "aliases": [
+   "CCK",
+   "Cocos Islands",
+   "Territory of the Cocos (Keeling) Islands",
+   "Keeling Islands"
+  ],
+  "subregion": "Australia and New Zealand",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Australian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CD",
+  "iso3": "COD",
+  "numeric": "180",
+  "name": "DR Congo",
+  "capital": "Kinshasa",
+  "area": 2345410,
+  "population": 84068091,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇩",
+  "lat": 0,
+  "lng": 25,
+  "aliases": [
+   "COD",
+   "Democratic Republic of the Congo",
+   "Congo-Kinshasa",
+   "Congo, the Democratic Republic of the",
+   "Democratic Republic of Congo",
+   "DRC"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "French",
+   "Kikongo",
+   "Lingala",
+   "Tshiluba",
+   "Swahili"
+  ],
+  "currencies": [
+   "Congolese franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AO",
+   "BI",
+   "CF",
+   "CG",
+   "RW",
+   "SS",
+   "TZ",
+   "UG",
+   "ZM"
+  ],
+  "priceLevel": 0.467,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CF",
+  "iso3": "CAF",
+  "numeric": "140",
+  "name": "Central African Republic",
+  "capital": "Bangui",
+  "area": 622984,
+  "population": 4666377,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇫",
+  "lat": 7,
+  "lng": 21,
+  "aliases": [
+   "CAF",
+   "République centrafricaine"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "French",
+   "Sango"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CM",
+   "TD",
+   "CD",
+   "CG",
+   "SS",
+   "SD"
+  ],
+  "priceLevel": 0.434,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CG",
+  "iso3": "COG",
+  "numeric": "178",
+  "name": "Republic of the Congo",
+  "capital": "Brazzaville",
+  "area": 342000,
+  "population": 5244363,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇬",
+  "lat": -1,
+  "lng": 15,
+  "aliases": [
+   "COG",
+   "Congo",
+   "Congo-Brazzaville"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "French",
+   "Kikongo",
+   "Lingala"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AO",
+   "CM",
+   "CF",
+   "CD",
+   "GA"
+  ],
+  "priceLevel": 0.383,
+  "priceYear": 2024,
+  "visitorSpend": 201,
+  "spendYear": 2016
+ },
+ {
+  "code": "CH",
+  "iso3": "CHE",
+  "numeric": "756",
+  "name": "Switzerland",
+  "capital": "Bern",
+  "area": 41290,
+  "population": 8516543,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇨🇭",
+  "lat": 47,
+  "lng": 8,
+  "aliases": [
+   "CHE",
+   "Swiss Confederation",
+   "Schweiz",
+   "Suisse",
+   "Svizzera",
+   "Svizra"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "French",
+   "Swiss German",
+   "Italian",
+   "Romansh"
+  ],
+  "currencies": [
+   "Swiss franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AT",
+   "FR",
+   "IT",
+   "LI",
+   "DE"
+  ],
+  "priceLevel": 1.258,
+  "priceYear": 2024,
+  "visitorSpend": 1799,
+  "spendYear": 2019
+ },
+ {
+  "code": "CI",
+  "iso3": "CIV",
+  "numeric": "384",
+  "name": "Ivory Coast",
+  "capital": "Yamoussoukro",
+  "area": 322460,
+  "population": 25069229,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇮",
+  "lat": 8,
+  "lng": -5,
+  "aliases": [
+   "CIV",
+   "Republic of Côte d'Ivoire",
+   "Côte d'Ivoire",
+   "Cote d'Ivoire",
+   "République de Côte d'Ivoire"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BF",
+   "GH",
+   "GN",
+   "LR",
+   "ML"
+  ],
+  "priceLevel": 0.386,
+  "priceYear": 2024,
+  "visitorSpend": 266,
+  "spendYear": 2019
+ },
+ {
+  "code": "CK",
+  "iso3": "COK",
+  "numeric": "184",
+  "name": "Cook Islands",
+  "capital": "Avarua",
+  "area": 240,
+  "population": 21388,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇨🇰",
+  "lat": -21.23333333,
+  "lng": -159.76666666,
+  "aliases": [
+   "COK",
+   "Kūki 'Āirani"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Cook Islands Māori"
+  ],
+  "currencies": [
+   "Cook Islands dollar",
+   "New Zealand dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CL",
+  "iso3": "CHL",
+  "numeric": "152",
+  "name": "Chile",
+  "capital": "Santiago",
+  "area": 756950,
+  "population": 18729160,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇨🇱",
+  "lat": -30,
+  "lng": -71,
+  "aliases": [
+   "CHL",
+   "Republic of Chile",
+   "República de Chile"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Chilean peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AR",
+   "BO",
+   "PE"
+  ],
+  "priceLevel": 0.493,
+  "priceYear": 2024,
+  "visitorSpend": 604,
+  "spendYear": 2019
+ },
+ {
+  "code": "CM",
+  "iso3": "CMR",
+  "numeric": "120",
+  "name": "Cameroon",
+  "capital": "Yaounde",
+  "area": 475440,
+  "population": 25216237,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇲",
+  "lat": 6,
+  "lng": 12,
+  "aliases": [
+   "CMR",
+   "Republic of Cameroon",
+   "République du Cameroun"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CF",
+   "TD",
+   "CG",
+   "GQ",
+   "GA",
+   "NG"
+  ],
+  "priceLevel": 0.342,
+  "priceYear": 2024,
+  "visitorSpend": 667,
+  "spendYear": 2019
+ },
+ {
+  "code": "CN",
+  "iso3": "CHN",
+  "numeric": "156",
+  "name": "China",
+  "capital": "Beijing",
+  "area": 9596960,
+  "population": 1411778724,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇨🇳",
+  "lat": 35,
+  "lng": 105,
+  "aliases": [
+   "CHN",
+   "People's Republic of China",
+   "Zhōngguó",
+   "Zhongguo",
+   "Zhonghua",
+   "中华人民共和国",
+   "Zhōnghuá Rénmín Gònghéguó"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Chinese"
+  ],
+  "currencies": [
+   "Chinese yuan"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AF",
+   "BT",
+   "MM",
+   "HK",
+   "IN",
+   "KZ",
+   "NP",
+   "KP",
+   "KG",
+   "LA",
+   "MO",
+   "MN",
+   "PK",
+   "RU",
+   "TJ",
+   "VN"
+  ],
+  "priceLevel": 0.493,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CO",
+  "iso3": "COL",
+  "numeric": "170",
+  "name": "Colombia",
+  "capital": "Bogota",
+  "area": 1138910,
+  "population": 49648685,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇨🇴",
+  "lat": 4,
+  "lng": -72,
+  "aliases": [
+   "COL",
+   "Republic of Colombia",
+   "República de Colombia"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Colombian peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BR",
+   "EC",
+   "PA",
+   "PE",
+   "VE"
+  ],
+  "priceLevel": 0.379,
+  "priceYear": 2024,
+  "visitorSpend": 1497,
+  "spendYear": 2019
+ },
+ {
+  "code": "CR",
+  "iso3": "CRI",
+  "numeric": "188",
+  "name": "Costa Rica",
+  "capital": "San Jose",
+  "area": 51100,
+  "population": 4999441,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇨🇷",
+  "lat": 10,
+  "lng": -84,
+  "aliases": [
+   "CRI",
+   "Republic of Costa Rica",
+   "República de Costa Rica"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Costa Rican colón"
+  ],
+  "landlocked": false,
+  "borders": [
+   "NI",
+   "PA"
+  ],
+  "priceLevel": 0.637,
+  "priceYear": 2024,
+  "visitorSpend": 1272,
+  "spendYear": 2019
+ },
+ {
+  "code": "CU",
+  "iso3": "CUB",
+  "numeric": "192",
+  "name": "Cuba",
+  "capital": "Havana",
+  "area": 110860,
+  "population": 11338138,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇨🇺",
+  "lat": 21.5,
+  "lng": -80,
+  "aliases": [
+   "CUB",
+   "Republic of Cuba",
+   "República de Cuba"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Cuban convertible peso",
+   "Cuban peso"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 619,
+  "spendYear": 2019
+ },
+ {
+  "code": "CV",
+  "iso3": "CPV",
+  "numeric": "132",
+  "name": "Cape Verde",
+  "capital": "Praia",
+  "area": 4033,
+  "population": 543767,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇨🇻",
+  "lat": 16,
+  "lng": -24,
+  "aliases": [
+   "CPV",
+   "Cabo Verde",
+   "Republic of Cabo Verde",
+   "República de Cabo Verde"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "Cape Verdean escudo"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.522,
+  "priceYear": 2024,
+  "visitorSpend": 748,
+  "spendYear": 2019
+ },
+ {
+  "code": "CW",
+  "iso3": "CUW",
+  "numeric": "531",
+  "name": "Curaçao",
+  "capital": " Willemstad",
+  "area": 444,
+  "population": 159849,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇨🇼",
+  "lat": 12.116667,
+  "lng": -68.933333,
+  "aliases": [
+   "CUW",
+   "Curacao",
+   "Country of Curaçao",
+   "Kòrsou",
+   "Land Curaçao",
+   "Pais Kòrsou"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English",
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   "Netherlands Antillean guilder"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.787,
+  "priceYear": 2021,
+  "visitorSpend": 546,
+  "spendYear": 2019
+ },
+ {
+  "code": "CX",
+  "iso3": "CXR",
+  "numeric": "162",
+  "name": "Christmas Island",
+  "capital": "Flying Fish Cove",
+  "area": 135,
+  "population": 1500,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇨🇽",
+  "lat": -10.5,
+  "lng": 105.66666666,
+  "aliases": [
+   "CXR",
+   "Territory of Christmas Island"
+  ],
+  "subregion": "Australia and New Zealand",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Australian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "CY",
+  "iso3": "CYP",
+  "numeric": "196",
+  "name": "Cyprus",
+  "capital": "Nicosia",
+  "area": 9250,
+  "population": 1189265,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇨🇾",
+  "lat": 35,
+  "lng": 33,
+  "aliases": [
+   "CYP",
+   "Republic of Cyprus",
+   "Kýpros",
+   "Kıbrıs",
+   "Κυπριακή Δημοκρατία",
+   "Kıbrıs Cumhuriyeti"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Greek",
+   "Turkish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.639,
+  "priceYear": 2024,
+  "visitorSpend": 788,
+  "spendYear": 2019
+ },
+ {
+  "code": "CZ",
+  "iso3": "CZE",
+  "numeric": "203",
+  "name": "Czechia",
+  "capital": "Prague",
+  "area": 78866,
+  "population": 10625695,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇨🇿",
+  "lat": 49.75,
+  "lng": 15.5,
+  "aliases": [
+   "CZE",
+   "Czech Republic",
+   "Česká republika",
+   "Česko"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Czech",
+   "Slovak"
+  ],
+  "currencies": [
+   "Czech koruna"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AT",
+   "DE",
+   "PL",
+   "SK"
+  ],
+  "priceLevel": 0.617,
+  "priceYear": 2024,
+  "visitorSpend": 214,
+  "spendYear": 2019
+ },
+ {
+  "code": "DE",
+  "iso3": "DEU",
+  "numeric": "276",
+  "name": "Germany",
+  "capital": "Berlin",
+  "area": 357021,
+  "population": 82927922,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇩🇪",
+  "lat": 51,
+  "lng": 9,
+  "aliases": [
+   "DEU",
+   "Federal Republic of Germany",
+   "Bundesrepublik Deutschland"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "German"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AT",
+   "BE",
+   "CZ",
+   "DK",
+   "FR",
+   "LU",
+   "NL",
+   "PL",
+   "CH"
+  ],
+  "priceLevel": 0.759,
+  "priceYear": 2024,
+  "visitorSpend": 1475,
+  "spendYear": 2019
+ },
+ {
+  "code": "DJ",
+  "iso3": "DJI",
+  "numeric": "262",
+  "name": "Djibouti",
+  "capital": "Djibouti",
+  "area": 23000,
+  "population": 958920,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇩🇯",
+  "lat": 11.5,
+  "lng": 43,
+  "aliases": [
+   "DJI",
+   "Republic of Djibouti",
+   "Jabuuti",
+   "Gabuuti",
+   "République de Djibouti",
+   "Gabuutih Ummuuno",
+   "Jamhuuriyadda Jabuuti"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   "Djiboutian franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ER",
+   "ET",
+   "SO"
+  ],
+  "priceLevel": 0.513,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "DK",
+  "iso3": "DNK",
+  "numeric": "208",
+  "name": "Denmark",
+  "capital": "Copenhagen",
+  "area": 43094,
+  "population": 5797446,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇩🇰",
+  "lat": 56,
+  "lng": 10,
+  "aliases": [
+   "DNK",
+   "Kingdom of Denmark",
+   "Danmark",
+   "Kongeriget Danmark"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Danish"
+  ],
+  "currencies": [
+   "Danish krone"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DE"
+  ],
+  "priceLevel": 0.981,
+  "priceYear": 2024,
+  "visitorSpend": 295,
+  "spendYear": 2018
+ },
+ {
+  "code": "DM",
+  "iso3": "DMA",
+  "numeric": "212",
+  "name": "Dominica",
+  "capital": "Roseau",
+  "area": 754,
+  "population": 71625,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇩🇲",
+  "lat": 15.41666666,
+  "lng": -61.33333333,
+  "aliases": [
+   "DMA",
+   "Commonwealth of Dominica",
+   "Dominique",
+   "Wai‘tu kubuli"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.578,
+  "priceYear": 2024,
+  "visitorSpend": 558,
+  "spendYear": 2018
+ },
+ {
+  "code": "DO",
+  "iso3": "DOM",
+  "numeric": "214",
+  "name": "Dominican Republic",
+  "capital": "Santo Domingo",
+  "area": 48730,
+  "population": 10627165,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇩🇴",
+  "lat": 19,
+  "lng": -70.66666666,
+  "aliases": [
+   "DOM"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Dominican peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "HT"
+  ],
+  "priceLevel": 0.395,
+  "priceYear": 2024,
+  "visitorSpend": 1001,
+  "spendYear": 2018
+ },
+ {
+  "code": "DZ",
+  "iso3": "DZA",
+  "numeric": "012",
+  "name": "Algeria",
+  "capital": "Algiers",
+  "area": 2381740,
+  "population": 42228429,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇩🇿",
+  "lat": 28,
+  "lng": 3,
+  "aliases": [
+   "DZA",
+   "People's Democratic Republic of Algeria",
+   "Dzayer",
+   "Algérie"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Algerian dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "TN",
+   "LY",
+   "NE",
+   "EH",
+   "MR",
+   "ML",
+   "MA"
+  ],
+  "priceLevel": 0.315,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "EC",
+  "iso3": "ECU",
+  "numeric": "218",
+  "name": "Ecuador",
+  "capital": "Quito",
+  "area": 283560,
+  "population": 17084357,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇪🇨",
+  "lat": -2,
+  "lng": -77.5,
+  "aliases": [
+   "ECU",
+   "Republic of Ecuador",
+   "República del Ecuador"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CO",
+   "PE"
+  ],
+  "priceLevel": 0.45,
+  "priceYear": 2024,
+  "visitorSpend": 1085,
+  "spendYear": 2019
+ },
+ {
+  "code": "EE",
+  "iso3": "EST",
+  "numeric": "233",
+  "name": "Estonia",
+  "capital": "Tallinn",
+  "area": 45226,
+  "population": 1320884,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇪🇪",
+  "lat": 59,
+  "lng": 26,
+  "aliases": [
+   "EST",
+   "Republic of Estonia",
+   "Eesti",
+   "Eesti Vabariik"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Estonian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "LV",
+   "RU"
+  ],
+  "priceLevel": 0.699,
+  "priceYear": 2024,
+  "visitorSpend": 379,
+  "spendYear": 2019
+ },
+ {
+  "code": "EG",
+  "iso3": "EGY",
+  "numeric": "818",
+  "name": "Egypt",
+  "capital": "Cairo",
+  "area": 1001450,
+  "population": 98423595,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇪🇬",
+  "lat": 27,
+  "lng": 30,
+  "aliases": [
+   "EGY",
+   "Arab Republic of Egypt"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Egyptian pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IL",
+   "LY",
+   "PS",
+   "SD"
+  ],
+  "priceLevel": 0.153,
+  "priceYear": 2024,
+  "visitorSpend": 1094,
+  "spendYear": 2019
+ },
+ {
+  "code": "EH",
+  "iso3": "ESH",
+  "numeric": "732",
+  "name": "Western Sahara",
+  "capital": "El-Aaiun",
+  "area": 266000,
+  "population": 273008,
+  "continent": "AF",
+  "sovereign": false,
+  "flag": "🇪🇭",
+  "lat": 24.5,
+  "lng": -13,
+  "aliases": [
+   "ESH",
+   "Sahrawi Arab Democratic Republic",
+   "Taneẓroft Tutrimt"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Berber",
+   "Hassaniya",
+   "Spanish"
+  ],
+  "currencies": [
+   "Algerian dinar",
+   "Moroccan dirham",
+   "Mauritanian ouguiya"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DZ",
+   "MR",
+   "MA"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "ER",
+  "iso3": "ERI",
+  "numeric": "232",
+  "name": "Eritrea",
+  "capital": "Asmara",
+  "area": 121320,
+  "population": 6209262,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇪🇷",
+  "lat": 15,
+  "lng": 39,
+  "aliases": [
+   "ERI",
+   "State of Eritrea",
+   "ሃገረ ኤርትራ",
+   "Dawlat Iritriyá",
+   "ʾErtrā",
+   "Iritriyā"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Arabic",
+   "English",
+   "Tigrinya"
+  ],
+  "currencies": [
+   "Eritrean nakfa"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DJ",
+   "ET",
+   "SD"
+  ],
+  "priceLevel": 0.345,
+  "priceYear": 2021,
+  "visitorSpend": 338,
+  "spendYear": 2016
+ },
+ {
+  "code": "ES",
+  "iso3": "ESP",
+  "numeric": "724",
+  "name": "Spain",
+  "capital": "Madrid",
+  "area": 504782,
+  "population": 46723749,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇪🇸",
+  "lat": 40,
+  "lng": -4,
+  "aliases": [
+   "ESP",
+   "Kingdom of Spain",
+   "Reino de España"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AD",
+   "FR",
+   "GI",
+   "PT",
+   "MA"
+  ],
+  "priceLevel": 0.637,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "ET",
+  "iso3": "ETH",
+  "numeric": "231",
+  "name": "Ethiopia",
+  "capital": "Addis Ababa",
+  "area": 1127127,
+  "population": 109224559,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇪🇹",
+  "lat": 8,
+  "lng": 38,
+  "aliases": [
+   "ETH",
+   "Federal Democratic Republic of Ethiopia",
+   "ʾĪtyōṗṗyā",
+   "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Amharic"
+  ],
+  "currencies": [
+   "Ethiopian birr"
+  ],
+  "landlocked": true,
+  "borders": [
+   "DJ",
+   "ER",
+   "KE",
+   "SO",
+   "SS",
+   "SD"
+  ],
+  "priceLevel": 0.297,
+  "priceYear": 2024,
+  "visitorSpend": 4346,
+  "spendYear": 2019
+ },
+ {
+  "code": "FI",
+  "iso3": "FIN",
+  "numeric": "246",
+  "name": "Finland",
+  "capital": "Helsinki",
+  "area": 337030,
+  "population": 5518050,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇫🇮",
+  "lat": 64,
+  "lng": 26,
+  "aliases": [
+   "FIN",
+   "Republic of Finland",
+   "Suomi",
+   "Suomen tasavalta",
+   "Republiken Finland"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Finnish",
+   "Swedish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "NO",
+   "SE",
+   "RU"
+  ],
+  "priceLevel": 0.853,
+  "priceYear": 2024,
+  "visitorSpend": 1807,
+  "spendYear": 2019
+ },
+ {
+  "code": "FJ",
+  "iso3": "FJI",
+  "numeric": "242",
+  "name": "Fiji",
+  "capital": "Suva",
+  "area": 18270,
+  "population": 883483,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇫🇯",
+  "lat": -18,
+  "lng": 175,
+  "aliases": [
+   "FJI",
+   "Republic of Fiji",
+   "Viti",
+   "Matanitu ko Viti",
+   "Fijī Gaṇarājya"
+  ],
+  "subregion": "Melanesia",
+  "languages": [
+   "English",
+   "Fijian",
+   "Fiji Hindi"
+  ],
+  "currencies": [
+   "Fijian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.408,
+  "priceYear": 2024,
+  "visitorSpend": 1388,
+  "spendYear": 2019
+ },
+ {
+  "code": "FK",
+  "iso3": "FLK",
+  "numeric": "238",
+  "name": "Falkland Islands",
+  "capital": "Stanley",
+  "area": 12173,
+  "population": 2638,
+  "continent": "SA",
+  "sovereign": false,
+  "flag": "🇫🇰",
+  "lat": -51.75,
+  "lng": -59,
+  "aliases": [
+   "FLK",
+   "Islas Malvinas",
+   "Falkland Islands (Malvinas)"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Falkland Islands pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "FM",
+  "iso3": "FSM",
+  "numeric": "583",
+  "name": "Micronesia",
+  "capital": "Palikir",
+  "area": 702,
+  "population": 112640,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇫🇲",
+  "lat": 6.91666666,
+  "lng": 158.25,
+  "aliases": [
+   "FSM",
+   "Federated States of Micronesia",
+   "Micronesia, Federated States of"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "English"
+  ],
+  "currencies": [],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.927,
+  "priceYear": 2022,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "FO",
+  "iso3": "FRO",
+  "numeric": "234",
+  "name": "Faroe Islands",
+  "capital": "Torshavn",
+  "area": 1399,
+  "population": 48497,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇫🇴",
+  "lat": 62,
+  "lng": -7,
+  "aliases": [
+   "FRO",
+   "Føroyar",
+   "Færøerne",
+   "Faeroe Islands"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Danish",
+   "Faroese"
+  ],
+  "currencies": [
+   "Danish krone",
+   "Faroese króna"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.039,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "FR",
+  "iso3": "FRA",
+  "numeric": "250",
+  "name": "France",
+  "capital": "Paris",
+  "area": 547030,
+  "population": 66987244,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇫🇷",
+  "lat": 46,
+  "lng": 2,
+  "aliases": [
+   "FRA",
+   "French Republic",
+   "République française"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AD",
+   "BE",
+   "DE",
+   "IT",
+   "LU",
+   "MC",
+   "ES",
+   "CH"
+  ],
+  "priceLevel": 0.776,
+  "priceYear": 2024,
+  "visitorSpend": 325,
+  "spendYear": 2019
+ },
+ {
+  "code": "GA",
+  "iso3": "GAB",
+  "numeric": "266",
+  "name": "Gabon",
+  "capital": "Libreville",
+  "area": 267667,
+  "population": 2119275,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇦",
+  "lat": -1,
+  "lng": 11.75,
+  "aliases": [
+   "GAB",
+   "Gabonese Republic",
+   "République Gabonaise"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CM",
+   "CG",
+   "GQ"
+  ],
+  "priceLevel": 0.467,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GB",
+  "iso3": "GBR",
+  "numeric": "826",
+  "name": "United Kingdom",
+  "capital": "London",
+  "area": 244820,
+  "population": 66488991,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇬🇧",
+  "lat": 54,
+  "lng": -2,
+  "aliases": [
+   "GBR",
+   "United Kingdom of Great Britain and Northern Ireland",
+   "UK",
+   "Great Britain",
+   "England",
+   "Scotland",
+   "Wales",
+   "Northern Ireland",
+   "Britain"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "British pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IE"
+  ],
+  "priceLevel": 0.873,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GD",
+  "iso3": "GRD",
+  "numeric": "308",
+  "name": "Grenada",
+  "capital": "St. George's",
+  "area": 344,
+  "population": 111454,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇬🇩",
+  "lat": 12.11666666,
+  "lng": -61.66666666,
+  "aliases": [
+   "GRD"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.631,
+  "priceYear": 2024,
+  "visitorSpend": 1036,
+  "spendYear": 2018
+ },
+ {
+  "code": "GE",
+  "iso3": "GEO",
+  "numeric": "268",
+  "name": "Georgia",
+  "capital": "Tbilisi",
+  "area": 69700,
+  "population": 3704500,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇬🇪",
+  "lat": 42,
+  "lng": 43.5,
+  "aliases": [
+   "GEO",
+   "Sakartvelo"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Georgian"
+  ],
+  "currencies": [
+   "lari"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AM",
+   "AZ",
+   "RU",
+   "TR"
+  ],
+  "priceLevel": 0.395,
+  "priceYear": 2024,
+  "visitorSpend": 460,
+  "spendYear": 2019
+ },
+ {
+  "code": "GF",
+  "iso3": "GUF",
+  "numeric": "254",
+  "name": "French Guiana",
+  "capital": "Cayenne",
+  "area": 91000,
+  "population": 195506,
+  "continent": "SA",
+  "sovereign": false,
+  "flag": "🇬🇫",
+  "lat": 4,
+  "lng": -53,
+  "aliases": [
+   "GUF",
+   "Guiana",
+   "Guyane"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BR",
+   "SR"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GG",
+  "iso3": "GGY",
+  "numeric": "831",
+  "name": "Guernsey",
+  "capital": "St Peter Port",
+  "area": 78,
+  "population": 65228,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇬🇬",
+  "lat": 49.46666666,
+  "lng": -2.58333333,
+  "aliases": [
+   "GGY",
+   "Bailiwick of Guernsey",
+   "Bailliage de Guernesey"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "English",
+   "French",
+   "Guernésiais"
+  ],
+  "currencies": [
+   "British pound",
+   "Guernsey pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GH",
+  "iso3": "GHA",
+  "numeric": "288",
+  "name": "Ghana",
+  "capital": "Accra",
+  "area": 239460,
+  "population": 29767108,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇭",
+  "lat": 8,
+  "lng": -2,
+  "aliases": [
+   "GHA",
+   "Republic of Ghana"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Ghanaian cedi"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BF",
+   "CI",
+   "TG"
+  ],
+  "priceLevel": 0.333,
+  "priceYear": 2024,
+  "visitorSpend": 1016,
+  "spendYear": 2015
+ },
+ {
+  "code": "GI",
+  "iso3": "GIB",
+  "numeric": "292",
+  "name": "Gibraltar",
+  "capital": "Gibraltar",
+  "area": 6.5,
+  "population": 33718,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇬🇮",
+  "lat": 36.13333333,
+  "lng": -5.35,
+  "aliases": [
+   "GIB"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Gibraltar pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ES"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GL",
+  "iso3": "GRL",
+  "numeric": "304",
+  "name": "Greenland",
+  "capital": "Nuuk",
+  "area": 2166086,
+  "population": 56025,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇬🇱",
+  "lat": 72,
+  "lng": -40,
+  "aliases": [
+   "GRL",
+   "Grønland"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "Greenlandic"
+  ],
+  "currencies": [
+   "krone"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.873,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GM",
+  "iso3": "GMB",
+  "numeric": "270",
+  "name": "Gambia",
+  "capital": "Banjul",
+  "area": 11300,
+  "population": 2280102,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇲",
+  "lat": 13.46666666,
+  "lng": -16.56666666,
+  "aliases": [
+   "GMB",
+   "Republic of the Gambia"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "dalasi"
+  ],
+  "landlocked": false,
+  "borders": [
+   "SN"
+  ],
+  "priceLevel": 0.287,
+  "priceYear": 2024,
+  "visitorSpend": 253,
+  "spendYear": 2019
+ },
+ {
+  "code": "GN",
+  "iso3": "GIN",
+  "numeric": "324",
+  "name": "Guinea",
+  "capital": "Conakry",
+  "area": 245857,
+  "population": 12414318,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇳",
+  "lat": 11,
+  "lng": -10,
+  "aliases": [
+   "GIN",
+   "Republic of Guinea",
+   "République de Guinée"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Guinean franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CI",
+   "GW",
+   "LR",
+   "ML",
+   "SN",
+   "SL"
+  ],
+  "priceLevel": 0.323,
+  "priceYear": 2020,
+  "visitorSpend": 168,
+  "spendYear": 2017
+ },
+ {
+  "code": "GP",
+  "iso3": "GLP",
+  "numeric": "312",
+  "name": "Guadeloupe",
+  "capital": "Basse-Terre",
+  "area": 1780,
+  "population": 443000,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇬🇵",
+  "lat": 16.25,
+  "lng": -61.583333,
+  "aliases": [
+   "GLP",
+   "Gwadloup"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GQ",
+  "iso3": "GNQ",
+  "numeric": "226",
+  "name": "Equatorial Guinea",
+  "capital": "Ciudad de la Paz",
+  "area": 28051,
+  "population": 1308974,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇶",
+  "lat": 2,
+  "lng": 10,
+  "aliases": [
+   "GNQ",
+   "Republic of Equatorial Guinea",
+   "República de Guinea Ecuatorial",
+   "République de Guinée équatoriale",
+   "República da Guiné Equatorial"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "French",
+   "Portuguese",
+   "Spanish"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CM",
+   "GA"
+  ],
+  "priceLevel": 0.455,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GR",
+  "iso3": "GRC",
+  "numeric": "300",
+  "name": "Greece",
+  "capital": "Athens",
+  "area": 131940,
+  "population": 10727668,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇬🇷",
+  "lat": 39,
+  "lng": 22,
+  "aliases": [
+   "GRC",
+   "Hellenic Republic",
+   "Elláda",
+   "Ελληνική Δημοκρατία"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Greek"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AL",
+   "BG",
+   "TR",
+   "MK"
+  ],
+  "priceLevel": 0.604,
+  "priceYear": 2024,
+  "visitorSpend": 676,
+  "spendYear": 2019
+ },
+ {
+  "code": "GS",
+  "iso3": "SGS",
+  "numeric": "239",
+  "name": "South Georgia",
+  "capital": "Grytviken",
+  "area": 3903,
+  "population": 30,
+  "continent": "AN",
+  "sovereign": false,
+  "flag": "🇬🇸",
+  "lat": -54.5,
+  "lng": -37,
+  "aliases": [
+   "SGS",
+   "South Georgia and the South Sandwich Islands"
+  ],
+  "subregion": "AN",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Saint Helena pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GT",
+  "iso3": "GTM",
+  "numeric": "320",
+  "name": "Guatemala",
+  "capital": "Guatemala City",
+  "area": 108890,
+  "population": 17247807,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇬🇹",
+  "lat": 15.5,
+  "lng": -90.25,
+  "aliases": [
+   "GTM",
+   "Republic of Guatemala"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Guatemalan quetzal"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BZ",
+   "SV",
+   "HN",
+   "MX"
+  ],
+  "priceLevel": 0.448,
+  "priceYear": 2024,
+  "visitorSpend": 479,
+  "spendYear": 2019
+ },
+ {
+  "code": "GU",
+  "iso3": "GUM",
+  "numeric": "316",
+  "name": "Guam",
+  "capital": "Hagatna",
+  "area": 549,
+  "population": 165768,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇬🇺",
+  "lat": 13.46666666,
+  "lng": 144.78333333,
+  "aliases": [
+   "GUM",
+   "Guåhån"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "Chamorro",
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.112,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "GW",
+  "iso3": "GNB",
+  "numeric": "624",
+  "name": "Guinea-Bissau",
+  "capital": "Bissau",
+  "area": 36120,
+  "population": 1874309,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇬🇼",
+  "lat": 12,
+  "lng": -15,
+  "aliases": [
+   "GNB",
+   "Republic of Guinea-Bissau",
+   "República da Guiné-Bissau"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "Portuguese",
+   "Upper Guinea Creole"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GN",
+   "SN"
+  ],
+  "priceLevel": 0.378,
+  "priceYear": 2024,
+  "visitorSpend": 361,
+  "spendYear": 2019
+ },
+ {
+  "code": "GY",
+  "iso3": "GUY",
+  "numeric": "328",
+  "name": "Guyana",
+  "capital": "Georgetown",
+  "area": 214970,
+  "population": 779004,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇬🇾",
+  "lat": 5,
+  "lng": -59,
+  "aliases": [
+   "GUY",
+   "Co-operative Republic of Guyana"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Guyanese dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BR",
+   "SR",
+   "VE"
+  ],
+  "priceLevel": 0.466,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "HK",
+  "iso3": "HKG",
+  "numeric": "344",
+  "name": "Hong Kong",
+  "capital": "Hong Kong",
+  "area": 1092,
+  "population": 7396076,
+  "continent": "AS",
+  "sovereign": false,
+  "flag": "🇭🇰",
+  "lat": 22.267,
+  "lng": 114.188,
+  "aliases": [
+   "HKG",
+   "Hong Kong Special Administrative Region of the People's Republic of China"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "currencies": [
+   "Hong Kong dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CN"
+  ],
+  "priceLevel": 0.748,
+  "priceYear": 2024,
+  "visitorSpend": 585,
+  "spendYear": 2019
+ },
+ {
+  "code": "HM",
+  "iso3": "HMD",
+  "numeric": "334",
+  "name": "Heard Island and McDonald Islands",
+  "capital": "",
+  "area": 412,
+  "population": 0,
+  "continent": "AN",
+  "sovereign": false,
+  "flag": "🇭🇲",
+  "lat": -53.1,
+  "lng": 72.51666666,
+  "aliases": [
+   "HMD"
+  ],
+  "subregion": "AN",
+  "languages": [
+   "English"
+  ],
+  "currencies": [],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "HN",
+  "iso3": "HND",
+  "numeric": "340",
+  "name": "Honduras",
+  "capital": "Tegucigalpa",
+  "area": 112090,
+  "population": 9587522,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇭🇳",
+  "lat": 15,
+  "lng": -86.5,
+  "aliases": [
+   "HND",
+   "Republic of Honduras",
+   "República de Honduras"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Honduran lempira"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GT",
+   "SV",
+   "NI"
+  ],
+  "priceLevel": 0.5,
+  "priceYear": 2024,
+  "visitorSpend": 240,
+  "spendYear": 2019
+ },
+ {
+  "code": "HR",
+  "iso3": "HRV",
+  "numeric": "191",
+  "name": "Croatia",
+  "capital": "Zagreb",
+  "area": 56542,
+  "population": 3871833,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇭🇷",
+  "lat": 45.16666666,
+  "lng": 15.5,
+  "aliases": [
+   "HRV",
+   "Republic of Croatia",
+   "Hrvatska",
+   "Republika Hrvatska"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Croatian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BA",
+   "HU",
+   "ME",
+   "RS",
+   "SI"
+  ],
+  "priceLevel": 0.535,
+  "priceYear": 2024,
+  "visitorSpend": 199,
+  "spendYear": 2019
+ },
+ {
+  "code": "HT",
+  "iso3": "HTI",
+  "numeric": "332",
+  "name": "Haiti",
+  "capital": "Port-au-Prince",
+  "area": 27750,
+  "population": 11123176,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇭🇹",
+  "lat": 19,
+  "lng": -72.41666666,
+  "aliases": [
+   "HTI",
+   "Republic of Haiti",
+   "République d'Haïti",
+   "Repiblik Ayiti"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "French",
+   "Haitian Creole"
+  ],
+  "currencies": [
+   "Haitian gourde"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DO"
+  ],
+  "priceLevel": 0.809,
+  "priceYear": 2024,
+  "visitorSpend": 465,
+  "spendYear": 2018
+ },
+ {
+  "code": "HU",
+  "iso3": "HUN",
+  "numeric": "348",
+  "name": "Hungary",
+  "capital": "Budapest",
+  "area": 93030,
+  "population": 9768785,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇭🇺",
+  "lat": 47,
+  "lng": 20,
+  "aliases": [
+   "HUN"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Hungarian"
+  ],
+  "currencies": [
+   "Hungarian forint"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AT",
+   "HR",
+   "RO",
+   "RS",
+   "SK",
+   "SI",
+   "UA"
+  ],
+  "priceLevel": 0.518,
+  "priceYear": 2024,
+  "visitorSpend": 167,
+  "spendYear": 2019
+ },
+ {
+  "code": "ID",
+  "iso3": "IDN",
+  "numeric": "360",
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "area": 1919440,
+  "population": 267663435,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇮🇩",
+  "lat": -5,
+  "lng": 120,
+  "aliases": [
+   "IDN",
+   "Republic of Indonesia",
+   "Republik Indonesia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Indonesian"
+  ],
+  "currencies": [
+   "Indonesian rupiah"
+  ],
+  "landlocked": false,
+  "borders": [
+   "TL",
+   "MY",
+   "PG"
+  ],
+  "priceLevel": 0.322,
+  "priceYear": 2024,
+  "visitorSpend": 1143,
+  "spendYear": 2019
+ },
+ {
+  "code": "IE",
+  "iso3": "IRL",
+  "numeric": "372",
+  "name": "Ireland",
+  "capital": "Dublin",
+  "area": 70280,
+  "population": 4853506,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇮🇪",
+  "lat": 53,
+  "lng": -8,
+  "aliases": [
+   "IRL",
+   "Republic of Ireland",
+   "Éire",
+   "Poblacht na hÉireann"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "English",
+   "Irish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GB"
+  ],
+  "priceLevel": 0.955,
+  "priceYear": 2024,
+  "visitorSpend": 1352,
+  "spendYear": 2019
+ },
+ {
+  "code": "IL",
+  "iso3": "ISR",
+  "numeric": "376",
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "area": 20770,
+  "population": 8883800,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇮🇱",
+  "lat": 31.47,
+  "lng": 35.13,
+  "aliases": [
+   "ISR",
+   "State of Israel",
+   "Medīnat Yisrā'el"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic",
+   "Hebrew"
+  ],
+  "currencies": [
+   "Israeli new shekel"
+  ],
+  "landlocked": false,
+  "borders": [
+   "EG",
+   "JO",
+   "LB",
+   "PS",
+   "SY"
+  ],
+  "priceLevel": 0.975,
+  "priceYear": 2024,
+  "visitorSpend": 1725,
+  "spendYear": 2019
+ },
+ {
+  "code": "IM",
+  "iso3": "IMN",
+  "numeric": "833",
+  "name": "Isle of Man",
+  "capital": "Douglas",
+  "area": 572,
+  "population": 84077,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇮🇲",
+  "lat": 54.25,
+  "lng": -4.5,
+  "aliases": [
+   "IMN",
+   "Ellan Vannin",
+   "Mann",
+   "Mannin"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "English",
+   "Manx"
+  ],
+  "currencies": [
+   "British pound",
+   "Manx pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "IN",
+  "iso3": "IND",
+  "numeric": "356",
+  "name": "India",
+  "capital": "New Delhi",
+  "area": 3287590,
+  "population": 1352617328,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇮🇳",
+  "lat": 20,
+  "lng": 77,
+  "aliases": [
+   "IND",
+   "Republic of India",
+   "Bhārat",
+   "Bharat Ganrajya",
+   "இந்தியா"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "English",
+   "Hindi",
+   "Tamil"
+  ],
+  "currencies": [
+   "Indian rupee"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BD",
+   "BT",
+   "MM",
+   "CN",
+   "NP",
+   "PK"
+  ],
+  "priceLevel": 0.238,
+  "priceYear": 2024,
+  "visitorSpend": 1767,
+  "spendYear": 2019
+ },
+ {
+  "code": "IO",
+  "iso3": "IOT",
+  "numeric": "086",
+  "name": "British Indian Ocean Territory",
+  "capital": "Diego Garcia",
+  "area": 60,
+  "population": 4000,
+  "continent": "AS",
+  "sovereign": false,
+  "flag": "🇮🇴",
+  "lat": -6,
+  "lng": 71.5,
+  "aliases": [
+   "IOT"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "IQ",
+  "iso3": "IRQ",
+  "numeric": "368",
+  "name": "Iraq",
+  "capital": "Baghdad",
+  "area": 437072,
+  "population": 38433600,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇮🇶",
+  "lat": 33,
+  "lng": 44,
+  "aliases": [
+   "IRQ",
+   "Republic of Iraq",
+   "Jumhūriyyat al-‘Irāq"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic",
+   "Aramaic",
+   "Sorani"
+  ],
+  "currencies": [
+   "Iraqi dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IR",
+   "JO",
+   "KW",
+   "SA",
+   "SY",
+   "TR"
+  ],
+  "priceLevel": 0.43,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "IR",
+  "iso3": "IRN",
+  "numeric": "364",
+  "name": "Iran",
+  "capital": "Tehran",
+  "area": 1648000,
+  "population": 81800269,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇮🇷",
+  "lat": 32,
+  "lng": 53,
+  "aliases": [
+   "IRN",
+   "Islamic Republic of Iran",
+   "Iran, Islamic Republic of",
+   "Jomhuri-ye Eslāmi-ye Irān"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Persian (Farsi)"
+  ],
+  "currencies": [
+   "Iranian rial"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AF",
+   "AM",
+   "AZ",
+   "IQ",
+   "PK",
+   "TR",
+   "TM"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 720,
+  "spendYear": 2018
+ },
+ {
+  "code": "IS",
+  "iso3": "ISL",
+  "numeric": "352",
+  "name": "Iceland",
+  "capital": "Reykjavik",
+  "area": 103000,
+  "population": 353574,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇮🇸",
+  "lat": 65,
+  "lng": -18,
+  "aliases": [
+   "ISL",
+   "Island",
+   "Republic of Iceland",
+   "Lýðveldið Ísland"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Icelandic"
+  ],
+  "currencies": [
+   "Icelandic króna"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.131,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "IT",
+  "iso3": "ITA",
+  "numeric": "380",
+  "name": "Italy",
+  "capital": "Rome",
+  "area": 301230,
+  "population": 60431283,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇮🇹",
+  "lat": 42.83333333,
+  "lng": 12.83333333,
+  "aliases": [
+   "ITA",
+   "Italian Republic",
+   "Repubblica italiana"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Italian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AT",
+   "FR",
+   "SM",
+   "SI",
+   "CH",
+   "VA"
+  ],
+  "priceLevel": 0.677,
+  "priceYear": 2024,
+  "visitorSpend": 544,
+  "spendYear": 2019
+ },
+ {
+  "code": "JE",
+  "iso3": "JEY",
+  "numeric": "832",
+  "name": "Jersey",
+  "capital": "Saint Helier",
+  "area": 116,
+  "population": 90812,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇯🇪",
+  "lat": 49.25,
+  "lng": -2.16666666,
+  "aliases": [
+   "JEY",
+   "Bailiwick of Jersey",
+   "Bailliage de Jersey",
+   "Bailliage dé Jèrri"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "English",
+   "French",
+   "Jèrriais"
+  ],
+  "currencies": [
+   "British pound",
+   "Jersey pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "JM",
+  "iso3": "JAM",
+  "numeric": "388",
+  "name": "Jamaica",
+  "capital": "Kingston",
+  "area": 10991,
+  "population": 2934855,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇯🇲",
+  "lat": 18.25,
+  "lng": -77.5,
+  "aliases": [
+   "JAM"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English",
+   "Jamaican Patois"
+  ],
+  "currencies": [
+   "Jamaican dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.62,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "JO",
+  "iso3": "JOR",
+  "numeric": "400",
+  "name": "Jordan",
+  "capital": "Amman",
+  "area": 92300,
+  "population": 9956011,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇯🇴",
+  "lat": 31,
+  "lng": 36,
+  "aliases": [
+   "JOR",
+   "Hashemite Kingdom of Jordan",
+   "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Jordanian dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IQ",
+   "IL",
+   "PS",
+   "SA",
+   "SY"
+  ],
+  "priceLevel": 0.452,
+  "priceYear": 2024,
+  "visitorSpend": 1262,
+  "spendYear": 2019
+ },
+ {
+  "code": "JP",
+  "iso3": "JPN",
+  "numeric": "392",
+  "name": "Japan",
+  "capital": "Tokyo",
+  "area": 377835,
+  "population": 126529100,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇯🇵",
+  "lat": 36,
+  "lng": 138,
+  "aliases": [
+   "JPN",
+   "Nippon",
+   "Nihon"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Japanese"
+  ],
+  "currencies": [
+   "Japanese yen"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.657,
+  "priceYear": 2024,
+  "visitorSpend": 1544,
+  "spendYear": 2019
+ },
+ {
+  "code": "KE",
+  "iso3": "KEN",
+  "numeric": "404",
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "area": 582650,
+  "population": 51393010,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇰🇪",
+  "lat": 1,
+  "lng": 38,
+  "aliases": [
+   "KEN",
+   "Republic of Kenya",
+   "Jamhuri ya Kenya"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   "Kenyan shilling"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ET",
+   "SO",
+   "SS",
+   "TZ",
+   "UG"
+  ],
+  "priceLevel": 0.329,
+  "priceYear": 2024,
+  "visitorSpend": 860,
+  "spendYear": 2019
+ },
+ {
+  "code": "KG",
+  "iso3": "KGZ",
+  "numeric": "417",
+  "name": "Kyrgyzstan",
+  "capital": "Bishkek",
+  "area": 198500,
+  "population": 6315800,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇬",
+  "lat": 41,
+  "lng": 75,
+  "aliases": [
+   "KGZ",
+   "Kyrgyz Republic",
+   "Киргизия",
+   "Кыргыз Республикасы",
+   "Kyrgyz Respublikasy"
+  ],
+  "subregion": "Central Asia",
+  "languages": [
+   "Kyrgyz",
+   "Russian"
+  ],
+  "currencies": [
+   "Kyrgyzstani som"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CN",
+   "KZ",
+   "TJ",
+   "UZ"
+  ],
+  "priceLevel": 0.319,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "KH",
+  "iso3": "KHM",
+  "numeric": "116",
+  "name": "Cambodia",
+  "capital": "Phnom Penh",
+  "area": 181040,
+  "population": 16249798,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇭",
+  "lat": 13,
+  "lng": 105,
+  "aliases": [
+   "KHM",
+   "Kingdom of Cambodia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Khmer"
+  ],
+  "currencies": [
+   "Cambodian riel",
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "LA",
+   "TH",
+   "VN"
+  ],
+  "priceLevel": 0.363,
+  "priceYear": 2024,
+  "visitorSpend": 804,
+  "spendYear": 2019
+ },
+ {
+  "code": "KI",
+  "iso3": "KIR",
+  "numeric": "296",
+  "name": "Kiribati",
+  "capital": "Tarawa",
+  "area": 811,
+  "population": 115847,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇰🇮",
+  "lat": 1.41666666,
+  "lng": 173,
+  "aliases": [
+   "KIR",
+   "Independent and Sovereign Republic of Kiribati",
+   "Republic of Kiribati",
+   "Ribaberiki Kiribati"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "English",
+   "Gilbertese"
+  ],
+  "currencies": [
+   "Australian dollar",
+   "Kiribati dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.617,
+  "priceYear": 2024,
+  "visitorSpend": 689,
+  "spendYear": 2017
+ },
+ {
+  "code": "KM",
+  "iso3": "COM",
+  "numeric": "174",
+  "name": "Comoros",
+  "capital": "Moroni",
+  "area": 2170,
+  "population": 832322,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇰🇲",
+  "lat": -12.16666666,
+  "lng": 44.25,
+  "aliases": [
+   "COM",
+   "Union of the Comoros",
+   "Union des Comores",
+   "Udzima wa Komori",
+   "al-Ittiḥād al-Qumurī"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Arabic",
+   "French",
+   "Comorian"
+  ],
+  "currencies": [
+   "Comorian franc"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.555,
+  "priceYear": 2024,
+  "visitorSpend": 1612,
+  "spendYear": 2019
+ },
+ {
+  "code": "KN",
+  "iso3": "KNA",
+  "numeric": "659",
+  "name": "Saint Kitts and Nevis",
+  "capital": "Basseterre",
+  "area": 261,
+  "population": 52441,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇰🇳",
+  "lat": 17.33333333,
+  "lng": -62.75,
+  "aliases": [
+   "KNA",
+   "Federation of Saint Christopher and Nevis"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.795,
+  "priceYear": 2023,
+  "visitorSpend": 287,
+  "spendYear": 2018
+ },
+ {
+  "code": "KP",
+  "iso3": "PRK",
+  "numeric": "408",
+  "name": "North Korea",
+  "capital": "Pyongyang",
+  "area": 120540,
+  "population": 25549819,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇵",
+  "lat": 40,
+  "lng": 127,
+  "aliases": [
+   "PRK",
+   "Democratic People's Republic of Korea",
+   "DPRK",
+   "조선민주주의인민공화국",
+   "Chosŏn Minjujuŭi Inmin Konghwaguk",
+   "Korea, Democratic People's Republic of",
+   "북한",
+   "북조선"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Korean"
+  ],
+  "currencies": [
+   "North Korean won"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CN",
+   "KR",
+   "RU"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "KR",
+  "iso3": "KOR",
+  "numeric": "410",
+  "name": "South Korea",
+  "capital": "Seoul",
+  "area": 98480,
+  "population": 51635256,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇷",
+  "lat": 37,
+  "lng": 127.5,
+  "aliases": [
+   "KOR",
+   "Republic of Korea",
+   "Korea, Republic of",
+   "남한",
+   "남조선",
+   "Korea"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Korean"
+  ],
+  "currencies": [
+   "South Korean won"
+  ],
+  "landlocked": false,
+  "borders": [
+   "KP"
+  ],
+  "priceLevel": 0.64,
+  "priceYear": 2024,
+  "visitorSpend": 1454,
+  "spendYear": 2019
+ },
+ {
+  "code": "XK",
+  "iso3": "XKX",
+  "numeric": "000",
+  "name": "Kosovo",
+  "capital": "Pristina",
+  "area": 10908,
+  "population": 1845300,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇽🇰",
+  "lat": 42.666667,
+  "lng": 21.166667,
+  "aliases": [
+   "XKX",
+   "Republic of Kosovo",
+   "Република Косово"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Albanian",
+   "Serbian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AL",
+   "MK",
+   "ME",
+   "RS"
+  ],
+  "priceLevel": 0.406,
+  "priceYear": 2022,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "KW",
+  "iso3": "KWT",
+  "numeric": "414",
+  "name": "Kuwait",
+  "capital": "Kuwait City",
+  "area": 17820,
+  "population": 4137309,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇼",
+  "lat": 29.5,
+  "lng": 45.75,
+  "aliases": [
+   "KWT",
+   "State of Kuwait",
+   "Dawlat al-Kuwait"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Kuwaiti dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IQ",
+   "SA"
+  ],
+  "priceLevel": 0.599,
+  "priceYear": 2024,
+  "visitorSpend": 140,
+  "spendYear": 2019
+ },
+ {
+  "code": "KY",
+  "iso3": "CYM",
+  "numeric": "136",
+  "name": "Cayman Islands",
+  "capital": "George Town",
+  "area": 262,
+  "population": 64174,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇰🇾",
+  "lat": 19.5,
+  "lng": -80.5,
+  "aliases": [
+   "CYM"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Cayman Islands dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.401,
+  "priceYear": 2021,
+  "visitorSpend": 413,
+  "spendYear": 2019
+ },
+ {
+  "code": "KZ",
+  "iso3": "KAZ",
+  "numeric": "398",
+  "name": "Kazakhstan",
+  "capital": "Nur-Sultan",
+  "area": 2717300,
+  "population": 18276499,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇰🇿",
+  "lat": 48,
+  "lng": 68,
+  "aliases": [
+   "KAZ",
+   "Republic of Kazakhstan",
+   "Qazaqstan",
+   "Казахстан",
+   "Қазақстан Республикасы",
+   "Qazaqstan Respublïkası",
+   "Республика Казахстан",
+   "Respublika Kazakhstan"
+  ],
+  "subregion": "Central Asia",
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "currencies": [
+   "Kazakhstani tenge"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CN",
+   "KG",
+   "RU",
+   "TM",
+   "UZ"
+  ],
+  "priceLevel": 0.375,
+  "priceYear": 2024,
+  "visitorSpend": 343,
+  "spendYear": 2019
+ },
+ {
+  "code": "LA",
+  "iso3": "LAO",
+  "numeric": "418",
+  "name": "Laos",
+  "capital": "Vientiane",
+  "area": 236800,
+  "population": 7061507,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇱🇦",
+  "lat": 18,
+  "lng": 105,
+  "aliases": [
+   "LAO",
+   "Lao People's Democratic Republic",
+   "Lao",
+   "Sathalanalat Paxathipatai Paxaxon Lao"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Lao"
+  ],
+  "currencies": [
+   "Lao kip"
+  ],
+  "landlocked": true,
+  "borders": [
+   "MM",
+   "KH",
+   "CN",
+   "TH",
+   "VN"
+  ],
+  "priceLevel": 0.277,
+  "priceYear": 2024,
+  "visitorSpend": 203,
+  "spendYear": 2019
+ },
+ {
+  "code": "LB",
+  "iso3": "LBN",
+  "numeric": "422",
+  "name": "Lebanon",
+  "capital": "Beirut",
+  "area": 10400,
+  "population": 6848925,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇱🇧",
+  "lat": 33.83333333,
+  "lng": 35.83333333,
+  "aliases": [
+   "LBN",
+   "Lebanese Republic",
+   "Al-Jumhūrīyah Al-Libnānīyah"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   "Lebanese pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IL",
+   "SY"
+  ],
+  "priceLevel": 0.585,
+  "priceYear": 2024,
+  "visitorSpend": 4503,
+  "spendYear": 2019
+ },
+ {
+  "code": "LC",
+  "iso3": "LCA",
+  "numeric": "662",
+  "name": "Saint Lucia",
+  "capital": "Castries",
+  "area": 616,
+  "population": 181889,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇱🇨",
+  "lat": 13.88333333,
+  "lng": -60.96666666,
+  "aliases": [
+   "LCA"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.595,
+  "priceYear": 2024,
+  "visitorSpend": 849,
+  "spendYear": 2018
+ },
+ {
+  "code": "LI",
+  "iso3": "LIE",
+  "numeric": "438",
+  "name": "Liechtenstein",
+  "capital": "Vaduz",
+  "area": 160,
+  "population": 37910,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇱🇮",
+  "lat": 47.26666666,
+  "lng": 9.53333333,
+  "aliases": [
+   "LIE",
+   "Principality of Liechtenstein",
+   "Fürstentum Liechtenstein"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "German"
+  ],
+  "currencies": [
+   "Swiss franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AT",
+   "CH"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "LK",
+  "iso3": "LKA",
+  "numeric": "144",
+  "name": "Sri Lanka",
+  "capital": "Colombo",
+  "area": 65610,
+  "population": 21670000,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇱🇰",
+  "lat": 7,
+  "lng": 81,
+  "aliases": [
+   "LKA",
+   "Democratic Socialist Republic of Sri Lanka",
+   "ilaṅkai"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Sinhala",
+   "Tamil"
+  ],
+  "currencies": [
+   "Sri Lankan rupee"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IN"
+  ],
+  "priceLevel": 0.276,
+  "priceYear": 2023,
+  "visitorSpend": 2300,
+  "spendYear": 2019
+ },
+ {
+  "code": "LR",
+  "iso3": "LBR",
+  "numeric": "430",
+  "name": "Liberia",
+  "capital": "Monrovia",
+  "area": 111370,
+  "population": 4818977,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇱🇷",
+  "lat": 6.5,
+  "lng": -9.5,
+  "aliases": [
+   "LBR",
+   "Republic of Liberia"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Liberian dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GN",
+   "CI",
+   "SL"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "LS",
+  "iso3": "LSO",
+  "numeric": "426",
+  "name": "Lesotho",
+  "capital": "Maseru",
+  "area": 30355,
+  "population": 2108132,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇱🇸",
+  "lat": -29.5,
+  "lng": 28.5,
+  "aliases": [
+   "LSO",
+   "Kingdom of Lesotho",
+   "Muso oa Lesotho"
+  ],
+  "subregion": "Southern Africa",
+  "languages": [
+   "English",
+   "Sotho"
+  ],
+  "currencies": [
+   "Lesotho loti",
+   "South African rand"
+  ],
+  "landlocked": true,
+  "borders": [
+   "ZA"
+  ],
+  "priceLevel": 0.335,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "LT",
+  "iso3": "LTU",
+  "numeric": "440",
+  "name": "Lithuania",
+  "capital": "Vilnius",
+  "area": 65200,
+  "population": 2789533,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇱🇹",
+  "lat": 56,
+  "lng": 24,
+  "aliases": [
+   "LTU",
+   "Republic of Lithuania",
+   "Lietuvos Respublika"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Lithuanian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BY",
+   "LV",
+   "PL",
+   "RU"
+  ],
+  "priceLevel": 0.57,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "LU",
+  "iso3": "LUX",
+  "numeric": "442",
+  "name": "Luxembourg",
+  "capital": "Luxembourg",
+  "area": 2586,
+  "population": 607728,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇱🇺",
+  "lat": 49.75,
+  "lng": 6.16666666,
+  "aliases": [
+   "LUX",
+   "Grand Duchy of Luxembourg",
+   "Grand-Duché de Luxembourg",
+   "Großherzogtum Luxemburg",
+   "Groussherzogtum Lëtzebuerg"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "German",
+   "French",
+   "Luxembourgish"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "BE",
+   "FR",
+   "DE"
+  ],
+  "priceLevel": 0.915,
+  "priceYear": 2024,
+  "visitorSpend": 5423,
+  "spendYear": 2019
+ },
+ {
+  "code": "LV",
+  "iso3": "LVA",
+  "numeric": "428",
+  "name": "Latvia",
+  "capital": "Riga",
+  "area": 64589,
+  "population": 1926542,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇱🇻",
+  "lat": 57,
+  "lng": 25,
+  "aliases": [
+   "LVA",
+   "Republic of Latvia",
+   "Latvijas Republika"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Latvian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BY",
+   "EE",
+   "LT",
+   "RU"
+  ],
+  "priceLevel": 0.577,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "LY",
+  "iso3": "LBY",
+  "numeric": "434",
+  "name": "Libya",
+  "capital": "Tripoli",
+  "area": 1759540,
+  "population": 6678567,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇱🇾",
+  "lat": 25,
+  "lng": 17,
+  "aliases": [
+   "LBY",
+   "State of Libya",
+   "Dawlat Libya"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Libyan dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DZ",
+   "TD",
+   "EG",
+   "NE",
+   "SD",
+   "TN"
+  ],
+  "priceLevel": 0.374,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MA",
+  "iso3": "MAR",
+  "numeric": "504",
+  "name": "Morocco",
+  "capital": "Rabat",
+  "area": 446550,
+  "population": 36029138,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇦",
+  "lat": 32,
+  "lng": -5,
+  "aliases": [
+   "MAR",
+   "Kingdom of Morocco",
+   "Al-Mamlakah al-Maġribiyah"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic",
+   "Berber"
+  ],
+  "currencies": [
+   "Moroccan dirham"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DZ",
+   "EH",
+   "ES"
+  ],
+  "priceLevel": 0.406,
+  "priceYear": 2024,
+  "visitorSpend": 759,
+  "spendYear": 2019
+ },
+ {
+  "code": "MC",
+  "iso3": "MCO",
+  "numeric": "492",
+  "name": "Monaco",
+  "capital": "Monaco",
+  "area": 1.95,
+  "population": 38682,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇲🇨",
+  "lat": 43.73333333,
+  "lng": 7.4,
+  "aliases": [
+   "MCO",
+   "Principality of Monaco",
+   "Principauté de Monaco"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "FR"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MD",
+  "iso3": "MDA",
+  "numeric": "498",
+  "name": "Moldova",
+  "capital": "Chisinau",
+  "area": 33843,
+  "population": 3545883,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇲🇩",
+  "lat": 47,
+  "lng": 29,
+  "aliases": [
+   "MDA",
+   "Republic of Moldova",
+   "Moldova, Republic of",
+   "Republica Moldova"
+  ],
+  "subregion": "Eastern Europe",
+  "languages": [
+   "Moldavian"
+  ],
+  "currencies": [
+   "Moldovan leu"
+  ],
+  "landlocked": true,
+  "borders": [
+   "RO",
+   "UA"
+  ],
+  "priceLevel": 0.47,
+  "priceYear": 2024,
+  "visitorSpend": 3029,
+  "spendYear": 2019
+ },
+ {
+  "code": "ME",
+  "iso3": "MNE",
+  "numeric": "499",
+  "name": "Montenegro",
+  "capital": "Podgorica",
+  "area": 14026,
+  "population": 622345,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇲🇪",
+  "lat": 42.5,
+  "lng": 19.3,
+  "aliases": [
+   "MNE",
+   "Crna Gora"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Montenegrin"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AL",
+   "BA",
+   "HR",
+   "XK",
+   "RS"
+  ],
+  "priceLevel": 0.448,
+  "priceYear": 2024,
+  "visitorSpend": 508,
+  "spendYear": 2019
+ },
+ {
+  "code": "MF",
+  "iso3": "MAF",
+  "numeric": "663",
+  "name": "Saint Martin",
+  "capital": "Marigot",
+  "area": 53,
+  "population": 37264,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇲🇫",
+  "lat": 18.08333333,
+  "lng": -63.95,
+  "aliases": [
+   "MAF",
+   "Collectivity of Saint Martin",
+   "Collectivité de Saint-Martin",
+   "Saint Martin (French part)"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "SX"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MG",
+  "iso3": "MDG",
+  "numeric": "450",
+  "name": "Madagascar",
+  "capital": "Antananarivo",
+  "area": 587040,
+  "population": 26262368,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇬",
+  "lat": -20,
+  "lng": 47,
+  "aliases": [
+   "MDG",
+   "Republic of Madagascar",
+   "Repoblikan'i Madagasikara",
+   "République de Madagascar"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "French",
+   "Malagasy"
+  ],
+  "currencies": [
+   "Malagasy ariary"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.276,
+  "priceYear": 2024,
+  "visitorSpend": 1957,
+  "spendYear": 2019
+ },
+ {
+  "code": "MH",
+  "iso3": "MHL",
+  "numeric": "584",
+  "name": "Marshall Islands",
+  "capital": "Majuro",
+  "area": 181.3,
+  "population": 58413,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇲🇭",
+  "lat": 9,
+  "lng": 168,
+  "aliases": [
+   "MHL",
+   "Republic of the Marshall Islands",
+   "Aolepān Aorōkin M̧ajeļ"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "English",
+   "Marshallese"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.952,
+  "priceYear": 2021,
+  "visitorSpend": 2956,
+  "spendYear": 2018
+ },
+ {
+  "code": "MK",
+  "iso3": "MKD",
+  "numeric": "807",
+  "name": "North Macedonia",
+  "capital": "Skopje",
+  "area": 25333,
+  "population": 2082958,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇲🇰",
+  "lat": 41.83333333,
+  "lng": 22,
+  "aliases": [
+   "MKD",
+   "Republic of North Macedonia",
+   "The former Yugoslav Republic of Macedonia",
+   "Macedonia, The Former Yugoslav Republic of",
+   "Република Северна Македонија",
+   "Macedonia"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Macedonian"
+  ],
+  "currencies": [
+   "denar"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AL",
+   "BG",
+   "GR",
+   "XK",
+   "RS"
+  ],
+  "priceLevel": 0.377,
+  "priceYear": 2024,
+  "visitorSpend": 529,
+  "spendYear": 2019
+ },
+ {
+  "code": "ML",
+  "iso3": "MLI",
+  "numeric": "466",
+  "name": "Mali",
+  "capital": "Bamako",
+  "area": 1240000,
+  "population": 19077690,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇱",
+  "lat": 17,
+  "lng": -4,
+  "aliases": [
+   "MLI",
+   "Republic of Mali",
+   "République du Mali"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "DZ",
+   "BF",
+   "GN",
+   "CI",
+   "MR",
+   "NE",
+   "SN"
+  ],
+  "priceLevel": 0.317,
+  "priceYear": 2024,
+  "visitorSpend": 1138,
+  "spendYear": 2018
+ },
+ {
+  "code": "MM",
+  "iso3": "MMR",
+  "numeric": "104",
+  "name": "Myanmar",
+  "capital": "Nay Pyi Taw",
+  "area": 678500,
+  "population": 53708395,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇲🇲",
+  "lat": 22,
+  "lng": 98,
+  "aliases": [
+   "MMR",
+   "Republic of the Union of Myanmar",
+   "Burma",
+   "Pyidaunzu Thanmăda Myăma Nainngandaw"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Burmese"
+  ],
+  "currencies": [
+   "Burmese kyat"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BD",
+   "CN",
+   "IN",
+   "LA",
+   "TH"
+  ],
+  "priceLevel": 0.315,
+  "priceYear": 2020,
+  "visitorSpend": 573,
+  "spendYear": 2019
+ },
+ {
+  "code": "MN",
+  "iso3": "MNG",
+  "numeric": "496",
+  "name": "Mongolia",
+  "capital": "Ulaanbaatar",
+  "area": 1565000,
+  "population": 3170208,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇲🇳",
+  "lat": 46,
+  "lng": 105,
+  "aliases": [
+   "MNG"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Mongolian"
+  ],
+  "currencies": [
+   "Mongolian tögrög"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CN",
+   "RU"
+  ],
+  "priceLevel": 0.329,
+  "priceYear": 2024,
+  "visitorSpend": 950,
+  "spendYear": 2019
+ },
+ {
+  "code": "MO",
+  "iso3": "MAC",
+  "numeric": "446",
+  "name": "Macau",
+  "capital": "Macao",
+  "area": 254,
+  "population": 631636,
+  "continent": "AS",
+  "sovereign": false,
+  "flag": "🇲🇴",
+  "lat": 22.16666666,
+  "lng": 113.55,
+  "aliases": [
+   "MAC",
+   "Macao",
+   "Macao Special Administrative Region of the People's Republic of China",
+   "澳门",
+   "中華人民共和國澳門特別行政區",
+   "Região Administrativa Especial de Macau da República Popular da China"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Portuguese",
+   "Chinese"
+  ],
+  "currencies": [
+   "Macanese pataca"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CN"
+  ],
+  "priceLevel": 0.63,
+  "priceYear": 2024,
+  "visitorSpend": 1045,
+  "spendYear": 2019
+ },
+ {
+  "code": "MP",
+  "iso3": "MNP",
+  "numeric": "580",
+  "name": "Northern Mariana Islands",
+  "capital": "Saipan",
+  "area": 477,
+  "population": 56882,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇲🇵",
+  "lat": 15.2,
+  "lng": 145.75,
+  "aliases": [
+   "MNP",
+   "Commonwealth of the Northern Mariana Islands",
+   "Sankattan Siha Na Islas Mariånas"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "Carolinian",
+   "Chamorro",
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.937,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MQ",
+  "iso3": "MTQ",
+  "numeric": "474",
+  "name": "Martinique",
+  "capital": "Fort-de-France",
+  "area": 1100,
+  "population": 432900,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇲🇶",
+  "lat": 14.666667,
+  "lng": -61,
+  "aliases": [
+   "MTQ"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MR",
+  "iso3": "MRT",
+  "numeric": "478",
+  "name": "Mauritania",
+  "capital": "Nouakchott",
+  "area": 1030700,
+  "population": 4403319,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇷",
+  "lat": 20,
+  "lng": -12,
+  "aliases": [
+   "MRT",
+   "Islamic Republic of Mauritania",
+   "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Mauritanian ouguiya"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DZ",
+   "ML",
+   "SN",
+   "EH"
+  ],
+  "priceLevel": 0.339,
+  "priceYear": 2023,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MS",
+  "iso3": "MSR",
+  "numeric": "500",
+  "name": "Montserrat",
+  "capital": "Plymouth",
+  "area": 102,
+  "population": 9341,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇲🇸",
+  "lat": 16.75,
+  "lng": -62.2,
+  "aliases": [
+   "MSR"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MT",
+  "iso3": "MLT",
+  "numeric": "470",
+  "name": "Malta",
+  "capital": "Valletta",
+  "area": 316,
+  "population": 483530,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇲🇹",
+  "lat": 35.83333333,
+  "lng": 14.58333333,
+  "aliases": [
+   "MLT",
+   "Republic of Malta",
+   "Repubblika ta' Malta"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "English",
+   "Maltese"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.632,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MU",
+  "iso3": "MUS",
+  "numeric": "480",
+  "name": "Mauritius",
+  "capital": "Port Louis",
+  "area": 2040,
+  "population": 1265303,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇺",
+  "lat": -20.28333333,
+  "lng": 57.55,
+  "aliases": [
+   "MUS",
+   "Republic of Mauritius",
+   "République de Maurice"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "French",
+   "Mauritian Creole"
+  ],
+  "currencies": [
+   "Mauritian rupee"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.429,
+  "priceYear": 2024,
+  "visitorSpend": 1427,
+  "spendYear": 2019
+ },
+ {
+  "code": "MV",
+  "iso3": "MDV",
+  "numeric": "462",
+  "name": "Maldives",
+  "capital": "Male",
+  "area": 300,
+  "population": 515696,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇲🇻",
+  "lat": 3.25,
+  "lng": 73,
+  "aliases": [
+   "MDV",
+   "Republic of the Maldives",
+   "Maldive Islands",
+   "Dhivehi Raajjeyge Jumhooriyya"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Maldivian"
+  ],
+  "currencies": [
+   "Maldivian rufiyaa"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.614,
+  "priceYear": 2024,
+  "visitorSpend": 1862,
+  "spendYear": 2019
+ },
+ {
+  "code": "MW",
+  "iso3": "MWI",
+  "numeric": "454",
+  "name": "Malawi",
+  "capital": "Lilongwe",
+  "area": 118480,
+  "population": 17563749,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇼",
+  "lat": -13.5,
+  "lng": 34,
+  "aliases": [
+   "MWI",
+   "Republic of Malawi"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "Chewa"
+  ],
+  "currencies": [
+   "Malawian kwacha"
+  ],
+  "landlocked": true,
+  "borders": [
+   "MZ",
+   "TZ",
+   "ZM"
+  ],
+  "priceLevel": 0.337,
+  "priceYear": 2023,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "MX",
+  "iso3": "MEX",
+  "numeric": "484",
+  "name": "Mexico",
+  "capital": "Mexico City",
+  "area": 1972550,
+  "population": 126190788,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇲🇽",
+  "lat": 23,
+  "lng": -102,
+  "aliases": [
+   "MEX",
+   "United Mexican States",
+   "Mexicanos",
+   "Estados Unidos Mexicanos"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Mexican peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BZ",
+   "GT",
+   "US"
+  ],
+  "priceLevel": 0.59,
+  "priceYear": 2024,
+  "visitorSpend": 265,
+  "spendYear": 2019
+ },
+ {
+  "code": "MY",
+  "iso3": "MYS",
+  "numeric": "458",
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "area": 329750,
+  "population": 31528585,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇲🇾",
+  "lat": 2.5,
+  "lng": 112.5,
+  "aliases": [
+   "MYS"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "currencies": [
+   "Malaysian ringgit"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BN",
+   "ID",
+   "TH"
+  ],
+  "priceLevel": 0.317,
+  "priceYear": 2024,
+  "visitorSpend": 851,
+  "spendYear": 2019
+ },
+ {
+  "code": "MZ",
+  "iso3": "MOZ",
+  "numeric": "508",
+  "name": "Mozambique",
+  "capital": "Maputo",
+  "area": 801590,
+  "population": 29495962,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇲🇿",
+  "lat": -18.25,
+  "lng": 35,
+  "aliases": [
+   "MOZ",
+   "Republic of Mozambique",
+   "República de Moçambique"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "Mozambican metical"
+  ],
+  "landlocked": false,
+  "borders": [
+   "MW",
+   "ZA",
+   "SZ",
+   "TZ",
+   "ZM",
+   "ZW"
+  ],
+  "priceLevel": 0.393,
+  "priceYear": 2024,
+  "visitorSpend": 159,
+  "spendYear": 2019
+ },
+ {
+  "code": "NA",
+  "iso3": "NAM",
+  "numeric": "516",
+  "name": "Namibia",
+  "capital": "Windhoek",
+  "area": 825418,
+  "population": 2448255,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇳🇦",
+  "lat": -22,
+  "lng": 17,
+  "aliases": [
+   "NAM",
+   "Republic of Namibia",
+   "Namibië"
+  ],
+  "subregion": "Southern Africa",
+  "languages": [
+   "Afrikaans",
+   "German",
+   "English",
+   "Herero",
+   "Khoekhoe",
+   "Kwangali",
+   "Lozi",
+   "Ndonga",
+   "Tswana"
+  ],
+  "currencies": [
+   "Namibian dollar",
+   "South African rand"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AO",
+   "BW",
+   "ZA",
+   "ZM"
+  ],
+  "priceLevel": 0.399,
+  "priceYear": 2024,
+  "visitorSpend": 273,
+  "spendYear": 2019
+ },
+ {
+  "code": "NC",
+  "iso3": "NCL",
+  "numeric": "540",
+  "name": "New Caledonia",
+  "capital": "Noumea",
+  "area": 19060,
+  "population": 284060,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇳🇨",
+  "lat": -21.5,
+  "lng": 165.5,
+  "aliases": [
+   "NCL"
+  ],
+  "subregion": "Melanesia",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "CFP franc"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.151,
+  "priceYear": 2021,
+  "visitorSpend": 2138,
+  "spendYear": 2016
+ },
+ {
+  "code": "NE",
+  "iso3": "NER",
+  "numeric": "562",
+  "name": "Niger",
+  "capital": "Niamey",
+  "area": 1267000,
+  "population": 22442948,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇳🇪",
+  "lat": 16,
+  "lng": 8,
+  "aliases": [
+   "NER",
+   "Republic of Niger",
+   "Nijar"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "DZ",
+   "BJ",
+   "BF",
+   "TD",
+   "LY",
+   "ML",
+   "NG"
+  ],
+  "priceLevel": 0.354,
+  "priceYear": 2024,
+  "visitorSpend": 677,
+  "spendYear": 2019
+ },
+ {
+  "code": "NF",
+  "iso3": "NFK",
+  "numeric": "574",
+  "name": "Norfolk Island",
+  "capital": "Kingston",
+  "area": 34.6,
+  "population": 1828,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇳🇫",
+  "lat": -29.03333333,
+  "lng": 167.95,
+  "aliases": [
+   "NFK",
+   "Territory of Norfolk Island",
+   "Teratri of Norf'k Ailen"
+  ],
+  "subregion": "Australia and New Zealand",
+  "languages": [
+   "English",
+   "Norfuk"
+  ],
+  "currencies": [
+   "Australian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "NG",
+  "iso3": "NGA",
+  "numeric": "566",
+  "name": "Nigeria",
+  "capital": "Abuja",
+  "area": 923768,
+  "population": 195874740,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇳🇬",
+  "lat": 10,
+  "lng": 8,
+  "aliases": [
+   "NGA",
+   "Federal Republic of Nigeria",
+   "Nijeriya",
+   "Naíjíríà"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Nigerian naira"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BJ",
+   "CM",
+   "TD",
+   "NE"
+  ],
+  "priceLevel": 0.18,
+  "priceYear": 2024,
+  "visitorSpend": 207,
+  "spendYear": 2016
+ },
+ {
+  "code": "NI",
+  "iso3": "NIC",
+  "numeric": "558",
+  "name": "Nicaragua",
+  "capital": "Managua",
+  "area": 129494,
+  "population": 6465513,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇳🇮",
+  "lat": 13,
+  "lng": -85,
+  "aliases": [
+   "NIC",
+   "Republic of Nicaragua",
+   "República de Nicaragua"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Nicaraguan córdoba"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CR",
+   "HN"
+  ],
+  "priceLevel": 0.372,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "NL",
+  "iso3": "NLD",
+  "numeric": "528",
+  "name": "Netherlands",
+  "capital": "Amsterdam",
+  "area": 41526,
+  "population": 17231017,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇳🇱",
+  "lat": 52.5,
+  "lng": 5.75,
+  "aliases": [
+   "NLD",
+   "The Netherlands",
+   "Kingdom of the Netherlands",
+   "Holland",
+   "Nederland"
+  ],
+  "subregion": "Western Europe",
+  "languages": [
+   "Dutch"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BE",
+   "DE"
+  ],
+  "priceLevel": 0.803,
+  "priceYear": 2024,
+  "visitorSpend": 1179,
+  "spendYear": 2019
+ },
+ {
+  "code": "NO",
+  "iso3": "NOR",
+  "numeric": "578",
+  "name": "Norway",
+  "capital": "Oslo",
+  "area": 324220,
+  "population": 5314336,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇳🇴",
+  "lat": 62,
+  "lng": 10,
+  "aliases": [
+   "NOR",
+   "Kingdom of Norway",
+   "Norge",
+   "Noreg",
+   "Kongeriket Norge",
+   "Kongeriket Noreg"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Norwegian Nynorsk",
+   "Norwegian Bokmål",
+   "Sami"
+  ],
+  "currencies": [
+   "Norwegian krone"
+  ],
+  "landlocked": false,
+  "borders": [
+   "FI",
+   "SE",
+   "RU"
+  ],
+  "priceLevel": 0.888,
+  "priceYear": 2024,
+  "visitorSpend": 1197,
+  "spendYear": 2019
+ },
+ {
+  "code": "NP",
+  "iso3": "NPL",
+  "numeric": "524",
+  "name": "Nepal",
+  "capital": "Kathmandu",
+  "area": 140800,
+  "population": 28087871,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇳🇵",
+  "lat": 28,
+  "lng": 84,
+  "aliases": [
+   "NPL",
+   "Federal Democratic Republic of Nepal",
+   "Loktāntrik Ganatantra Nepāl"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "Nepali"
+  ],
+  "currencies": [
+   "Nepalese rupee"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CN",
+   "IN"
+  ],
+  "priceLevel": 0.264,
+  "priceYear": 2024,
+  "visitorSpend": 669,
+  "spendYear": 2019
+ },
+ {
+  "code": "NR",
+  "iso3": "NRU",
+  "numeric": "520",
+  "name": "Nauru",
+  "capital": "Yaren",
+  "area": 21,
+  "population": 12704,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇳🇷",
+  "lat": -0.53333333,
+  "lng": 166.91666666,
+  "aliases": [
+   "NRU",
+   "Republic of Nauru",
+   "Naoero",
+   "Pleasant Island",
+   "Ripublik Naoero"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "English",
+   "Nauru"
+  ],
+  "currencies": [
+   "Australian dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.859,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "NU",
+  "iso3": "NIU",
+  "numeric": "570",
+  "name": "Niue",
+  "capital": "Alofi",
+  "area": 260,
+  "population": 2166,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇳🇺",
+  "lat": -19.03333333,
+  "lng": -169.86666666,
+  "aliases": [
+   "NIU"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Niuean"
+  ],
+  "currencies": [
+   "New Zealand dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "NZ",
+  "iso3": "NZL",
+  "numeric": "554",
+  "name": "New Zealand",
+  "capital": "Wellington",
+  "area": 268680,
+  "population": 4885500,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇳🇿",
+  "lat": -41,
+  "lng": 174,
+  "aliases": [
+   "NZL",
+   "Aotearoa"
+  ],
+  "subregion": "Australia and New Zealand",
+  "languages": [
+   "English",
+   "Māori",
+   "New Zealand Sign Language"
+  ],
+  "currencies": [
+   "New Zealand dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.908,
+  "priceYear": 2024,
+  "visitorSpend": 2841,
+  "spendYear": 2018
+ },
+ {
+  "code": "OM",
+  "iso3": "OMN",
+  "numeric": "512",
+  "name": "Oman",
+  "capital": "Muscat",
+  "area": 212460,
+  "population": 4829483,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇴🇲",
+  "lat": 21,
+  "lng": 57,
+  "aliases": [
+   "OMN",
+   "Sultanate of Oman",
+   "Salṭanat ʻUmān"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Omani rial"
+  ],
+  "landlocked": false,
+  "borders": [
+   "SA",
+   "AE",
+   "YE"
+  ],
+  "priceLevel": 0.481,
+  "priceYear": 2024,
+  "visitorSpend": 878,
+  "spendYear": 2019
+ },
+ {
+  "code": "PA",
+  "iso3": "PAN",
+  "numeric": "591",
+  "name": "Panama",
+  "capital": "Panama City",
+  "area": 78200,
+  "population": 4176873,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇵🇦",
+  "lat": 9,
+  "lng": -80,
+  "aliases": [
+   "PAN",
+   "Republic of Panama",
+   "República de Panamá"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Panamanian balboa",
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CO",
+   "CR"
+  ],
+  "priceLevel": 0.511,
+  "priceYear": 2024,
+  "visitorSpend": 2828,
+  "spendYear": 2019
+ },
+ {
+  "code": "PE",
+  "iso3": "PER",
+  "numeric": "604",
+  "name": "Peru",
+  "capital": "Lima",
+  "area": 1285220,
+  "population": 31989256,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇵🇪",
+  "lat": -10,
+  "lng": -76,
+  "aliases": [
+   "PER",
+   "Republic of Peru",
+   "República del Perú"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Aymara",
+   "Quechua",
+   "Spanish"
+  ],
+  "currencies": [
+   "Peruvian sol"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BO",
+   "BR",
+   "CL",
+   "CO",
+   "EC"
+  ],
+  "priceLevel": 0.519,
+  "priceYear": 2024,
+  "visitorSpend": 892,
+  "spendYear": 2019
+ },
+ {
+  "code": "PF",
+  "iso3": "PYF",
+  "numeric": "258",
+  "name": "French Polynesia",
+  "capital": "Papeete",
+  "area": 4167,
+  "population": 277679,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇵🇫",
+  "lat": -15,
+  "lng": -140,
+  "aliases": [
+   "PYF",
+   "Polynésie française",
+   "Pōrīnetia Farāni"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "CFP franc"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.01,
+  "priceYear": 2021,
+  "visitorSpend": 3245,
+  "spendYear": 2016
+ },
+ {
+  "code": "PG",
+  "iso3": "PNG",
+  "numeric": "598",
+  "name": "Papua New Guinea",
+  "capital": "Port Moresby",
+  "area": 462840,
+  "population": 8606316,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇵🇬",
+  "lat": -6,
+  "lng": 147,
+  "aliases": [
+   "PNG",
+   "Independent State of Papua New Guinea",
+   "Independen Stet bilong Papua Niugini"
+  ],
+  "subregion": "Melanesia",
+  "languages": [
+   "English",
+   "Hiri Motu",
+   "Tok Pisin"
+  ],
+  "currencies": [
+   "Papua New Guinean kina"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ID"
+  ],
+  "priceLevel": 0.705,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "PH",
+  "iso3": "PHL",
+  "numeric": "608",
+  "name": "Philippines",
+  "capital": "Manila",
+  "area": 300000,
+  "population": 106651922,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇵🇭",
+  "lat": 13,
+  "lng": 122,
+  "aliases": [
+   "PHL",
+   "Republic of the Philippines",
+   "Repúblika ng Pilipinas"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "currencies": [
+   "Philippine peso"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.362,
+  "priceYear": 2024,
+  "visitorSpend": 1387,
+  "spendYear": 2019
+ },
+ {
+  "code": "PK",
+  "iso3": "PAK",
+  "numeric": "586",
+  "name": "Pakistan",
+  "capital": "Islamabad",
+  "area": 803940,
+  "population": 212215030,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇵🇰",
+  "lat": 30,
+  "lng": 70,
+  "aliases": [
+   "PAK",
+   "Islamic Republic of Pakistan",
+   "Pākistān",
+   "Islāmī Jumhūriya'eh Pākistān"
+  ],
+  "subregion": "Southern Asia",
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "currencies": [
+   "Pakistani rupee"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AF",
+   "CN",
+   "IN",
+   "IR"
+  ],
+  "priceLevel": 0.233,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "PL",
+  "iso3": "POL",
+  "numeric": "616",
+  "name": "Poland",
+  "capital": "Warsaw",
+  "area": 312685,
+  "population": 37978548,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇵🇱",
+  "lat": 52,
+  "lng": 20,
+  "aliases": [
+   "POL",
+   "Republic of Poland",
+   "Rzeczpospolita Polska"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Polish"
+  ],
+  "currencies": [
+   "Polish złoty"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BY",
+   "CZ",
+   "DE",
+   "LT",
+   "RU",
+   "SK",
+   "UA"
+  ],
+  "priceLevel": 0.504,
+  "priceYear": 2024,
+  "visitorSpend": 178,
+  "spendYear": 2019
+ },
+ {
+  "code": "PM",
+  "iso3": "SPM",
+  "numeric": "666",
+  "name": "Saint Pierre and Miquelon",
+  "capital": "Saint-Pierre",
+  "area": 242,
+  "population": 7012,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇵🇲",
+  "lat": 46.83333333,
+  "lng": -56.33333333,
+  "aliases": [
+   "SPM",
+   "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "PN",
+  "iso3": "PCN",
+  "numeric": "612",
+  "name": "Pitcairn Islands",
+  "capital": "Adamstown",
+  "area": 47,
+  "population": 46,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇵🇳",
+  "lat": -25.06666666,
+  "lng": -130.1,
+  "aliases": [
+   "PCN",
+   "Pitcairn",
+   "Pitcairn Group of Islands",
+   "Pitcairn Henderson Ducie and Oeno Islands"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "New Zealand dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "PR",
+  "iso3": "PRI",
+  "numeric": "630",
+  "name": "Puerto Rico",
+  "capital": "San Juan",
+  "area": 9104,
+  "population": 3195153,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇵🇷",
+  "lat": 18.25,
+  "lng": -66.5,
+  "aliases": [
+   "PRI",
+   "Commonwealth of Puerto Rico",
+   "Estado Libre Asociado de Puerto Rico"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.897,
+  "priceYear": 2021,
+  "visitorSpend": 733,
+  "spendYear": 2019
+ },
+ {
+  "code": "PS",
+  "iso3": "PSE",
+  "numeric": "275",
+  "name": "Palestine",
+  "capital": "East Jerusalem",
+  "area": 5970,
+  "population": 4569087,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇵🇸",
+  "lat": 31.9,
+  "lng": 35.2,
+  "aliases": [
+   "PSE",
+   "Palestinian Territory",
+   "State of Palestine",
+   "Palestine, State of",
+   "Dawlat Filasṭin"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Egyptian pound",
+   "Israeli new shekel",
+   "Jordanian dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IL",
+   "EG",
+   "JO"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 404,
+  "spendYear": 2018
+ },
+ {
+  "code": "PT",
+  "iso3": "PRT",
+  "numeric": "620",
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "area": 92391,
+  "population": 10281762,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇵🇹",
+  "lat": 39.5,
+  "lng": -8,
+  "aliases": [
+   "PRT",
+   "Portuguese Republic",
+   "Portuguesa",
+   "República Portuguesa"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ES"
+  ],
+  "priceLevel": 0.605,
+  "priceYear": 2024,
+  "visitorSpend": 1423,
+  "spendYear": 2019
+ },
+ {
+  "code": "PW",
+  "iso3": "PLW",
+  "numeric": "585",
+  "name": "Palau",
+  "capital": "Melekeok",
+  "area": 458,
+  "population": 17907,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇵🇼",
+  "lat": 7.5,
+  "lng": 134.5,
+  "aliases": [
+   "PLW",
+   "Republic of Palau",
+   "Beluu er a Belau"
+  ],
+  "subregion": "Micronesia",
+  "languages": [
+   "English",
+   "Palauan"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.993,
+  "priceYear": 2024,
+  "visitorSpend": 1000,
+  "spendYear": 2017
+ },
+ {
+  "code": "PY",
+  "iso3": "PRY",
+  "numeric": "600",
+  "name": "Paraguay",
+  "capital": "Asuncion",
+  "area": 406750,
+  "population": 6956071,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇵🇾",
+  "lat": -23,
+  "lng": -58,
+  "aliases": [
+   "PRY",
+   "Republic of Paraguay",
+   "República del Paraguay",
+   "Tetã Paraguái"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Guaraní",
+   "Spanish"
+  ],
+  "currencies": [
+   "Paraguayan guaraní"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AR",
+   "BO",
+   "BR"
+  ],
+  "priceLevel": 0.375,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "QA",
+  "iso3": "QAT",
+  "numeric": "634",
+  "name": "Qatar",
+  "capital": "Doha",
+  "area": 11437,
+  "population": 2781677,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇶🇦",
+  "lat": 25.5,
+  "lng": 51.25,
+  "aliases": [
+   "QAT",
+   "State of Qatar",
+   "Dawlat Qaṭar"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Qatari riyal"
+  ],
+  "landlocked": false,
+  "borders": [
+   "SA"
+  ],
+  "priceLevel": 0.757,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "RE",
+  "iso3": "REU",
+  "numeric": "638",
+  "name": "Réunion",
+  "capital": "Saint-Denis",
+  "area": 2517,
+  "population": 776948,
+  "continent": "AF",
+  "sovereign": false,
+  "flag": "🇷🇪",
+  "lat": -21.15,
+  "lng": 55.5,
+  "aliases": [
+   "REU",
+   "Reunion",
+   "Réunion Island"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "RO",
+  "iso3": "ROU",
+  "numeric": "642",
+  "name": "Romania",
+  "capital": "Bucharest",
+  "area": 237500,
+  "population": 19473936,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇷🇴",
+  "lat": 46,
+  "lng": 25,
+  "aliases": [
+   "ROU",
+   "Rumania",
+   "Roumania",
+   "România"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Romanian"
+  ],
+  "currencies": [
+   "Romanian leu"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BG",
+   "HU",
+   "MD",
+   "RS",
+   "UA"
+  ],
+  "priceLevel": 0.447,
+  "priceYear": 2024,
+  "visitorSpend": 331,
+  "spendYear": 2019
+ },
+ {
+  "code": "RS",
+  "iso3": "SRB",
+  "numeric": "688",
+  "name": "Serbia",
+  "capital": "Belgrade",
+  "area": 88361,
+  "population": 6982084,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇷🇸",
+  "lat": 44,
+  "lng": 21,
+  "aliases": [
+   "SRB",
+   "Republic of Serbia",
+   "Srbija",
+   "Republika Srbija",
+   "Србија",
+   "Република Србија"
+  ],
+  "subregion": "Southeast Europe",
+  "languages": [
+   "Serbian"
+  ],
+  "currencies": [
+   "Serbian dinar"
+  ],
+  "landlocked": true,
+  "borders": [
+   "BA",
+   "BG",
+   "HR",
+   "HU",
+   "XK",
+   "MK",
+   "ME",
+   "RO"
+  ],
+  "priceLevel": 0.467,
+  "priceYear": 2024,
+  "visitorSpend": 1083,
+  "spendYear": 2019
+ },
+ {
+  "code": "RU",
+  "iso3": "RUS",
+  "numeric": "643",
+  "name": "Russia",
+  "capital": "Moscow",
+  "area": 17100000,
+  "population": 144478050,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇷🇺",
+  "lat": 60,
+  "lng": 100,
+  "aliases": [
+   "RUS",
+   "Russian Federation",
+   "Российская Федерация"
+  ],
+  "subregion": "Eastern Europe",
+  "languages": [
+   "Russian"
+  ],
+  "currencies": [
+   "Russian ruble"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AZ",
+   "BY",
+   "CN",
+   "EE",
+   "FI",
+   "GE",
+   "KZ",
+   "KP",
+   "LV",
+   "LT",
+   "MN",
+   "NO",
+   "PL",
+   "UA"
+  ],
+  "priceLevel": 0.314,
+  "priceYear": 2024,
+  "visitorSpend": 706,
+  "spendYear": 2019
+ },
+ {
+  "code": "RW",
+  "iso3": "RWA",
+  "numeric": "646",
+  "name": "Rwanda",
+  "capital": "Kigali",
+  "area": 26338,
+  "population": 12301939,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇷🇼",
+  "lat": -2,
+  "lng": 30,
+  "aliases": [
+   "RWA",
+   "Republic of Rwanda",
+   "Repubulika y'u Rwanda",
+   "République du Rwanda"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "French",
+   "Kinyarwanda"
+  ],
+  "currencies": [
+   "Rwandan franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "BI",
+   "CD",
+   "TZ",
+   "UG"
+  ],
+  "priceLevel": 0.274,
+  "priceYear": 2024,
+  "visitorSpend": 389,
+  "spendYear": 2019
+ },
+ {
+  "code": "SA",
+  "iso3": "SAU",
+  "numeric": "682",
+  "name": "Saudi Arabia",
+  "capital": "Riyadh",
+  "area": 1960582,
+  "population": 33699947,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇸🇦",
+  "lat": 25,
+  "lng": 45,
+  "aliases": [
+   "SAU",
+   "Kingdom of Saudi Arabia",
+   "Saudi",
+   "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Saudi riyal"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IQ",
+   "JO",
+   "KW",
+   "OM",
+   "QA",
+   "AE",
+   "YE"
+  ],
+  "priceLevel": 0.502,
+  "priceYear": 2024,
+  "visitorSpend": 978,
+  "spendYear": 2019
+ },
+ {
+  "code": "SB",
+  "iso3": "SLB",
+  "numeric": "090",
+  "name": "Solomon Islands",
+  "capital": "Honiara",
+  "area": 28450,
+  "population": 652858,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇸🇧",
+  "lat": -8,
+  "lng": 159,
+  "aliases": [
+   "SLB"
+  ],
+  "subregion": "Melanesia",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Solomon Islands dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.899,
+  "priceYear": 2024,
+  "visitorSpend": 2837,
+  "spendYear": 2019
+ },
+ {
+  "code": "SC",
+  "iso3": "SYC",
+  "numeric": "690",
+  "name": "Seychelles",
+  "capital": "Victoria",
+  "area": 455,
+  "population": 96762,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇨",
+  "lat": -4.58333333,
+  "lng": 55.66666666,
+  "aliases": [
+   "SYC",
+   "Republic of Seychelles",
+   "Repiblik Sesel",
+   "République des Seychelles"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Seychellois Creole",
+   "English",
+   "French"
+  ],
+  "currencies": [
+   "Seychellois rupee"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.596,
+  "priceYear": 2024,
+  "visitorSpend": 1444,
+  "spendYear": 2019
+ },
+ {
+  "code": "SD",
+  "iso3": "SDN",
+  "numeric": "729",
+  "name": "Sudan",
+  "capital": "Khartoum",
+  "area": 1861484,
+  "population": 41801533,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇩",
+  "lat": 15,
+  "lng": 30,
+  "aliases": [
+   "SDN",
+   "Republic of the Sudan",
+   "Jumhūrīyat as-Sūdān"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "currencies": [
+   "Sudanese pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CF",
+   "TD",
+   "EG",
+   "ER",
+   "ET",
+   "LY",
+   "SS"
+  ],
+  "priceLevel": 0.41,
+  "priceYear": 2022,
+  "visitorSpend": 1248,
+  "spendYear": 2018
+ },
+ {
+  "code": "SS",
+  "iso3": "SSD",
+  "numeric": "728",
+  "name": "South Sudan",
+  "capital": "Juba",
+  "area": 644329,
+  "population": 8260490,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇸",
+  "lat": 7,
+  "lng": 30,
+  "aliases": [
+   "SSD",
+   "Republic of South Sudan"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "South Sudanese pound"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CF",
+   "CD",
+   "ET",
+   "KE",
+   "SD",
+   "UG"
+  ],
+  "priceLevel": 0.516,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SE",
+  "iso3": "SWE",
+  "numeric": "752",
+  "name": "Sweden",
+  "capital": "Stockholm",
+  "area": 449964,
+  "population": 10183175,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇸🇪",
+  "lat": 62,
+  "lng": 15,
+  "aliases": [
+   "SWE",
+   "Kingdom of Sweden",
+   "Konungariket Sverige"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Swedish"
+  ],
+  "currencies": [
+   "Swedish krona"
+  ],
+  "landlocked": false,
+  "borders": [
+   "FI",
+   "NO"
+  ],
+  "priceLevel": 0.812,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SG",
+  "iso3": "SGP",
+  "numeric": "702",
+  "name": "Singapore",
+  "capital": "Singapore",
+  "area": 692.7,
+  "population": 5638676,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇸🇬",
+  "lat": 1.36666666,
+  "lng": 103.8,
+  "aliases": [
+   "SGP",
+   "Republic of Singapore",
+   "Singapura",
+   "Republik Singapura",
+   "新加坡共和国"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "English",
+   "Malay",
+   "Tamil",
+   "Chinese"
+  ],
+  "currencies": [
+   "Singapore dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.78,
+  "priceYear": 2024,
+  "visitorSpend": 1103,
+  "spendYear": 2018
+ },
+ {
+  "code": "SH",
+  "iso3": "SHN",
+  "numeric": "654",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "capital": "Jamestown",
+  "area": 410,
+  "population": 7460,
+  "continent": "AF",
+  "sovereign": false,
+  "flag": "🇸🇭",
+  "lat": -15.95,
+  "lng": -5.72,
+  "aliases": [
+   "SHN",
+   "Saint Helena",
+   "St. Helena, Ascension and Tristan da Cunha"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Pound sterling",
+   "Saint Helena pound"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SI",
+  "iso3": "SVN",
+  "numeric": "705",
+  "name": "Slovenia",
+  "capital": "Ljubljana",
+  "area": 20273,
+  "population": 2067372,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇸🇮",
+  "lat": 46.11666666,
+  "lng": 14.81666666,
+  "aliases": [
+   "SVN",
+   "Republic of Slovenia",
+   "Republika Slovenija"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Slovene"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AT",
+   "HR",
+   "IT",
+   "HU"
+  ],
+  "priceLevel": 0.625,
+  "priceYear": 2024,
+  "visitorSpend": 713,
+  "spendYear": 2019
+ },
+ {
+  "code": "SJ",
+  "iso3": "SJM",
+  "numeric": "744",
+  "name": "Svalbard and Jan Mayen",
+  "capital": "Longyearbyen",
+  "area": 62049,
+  "population": 2550,
+  "continent": "EU",
+  "sovereign": false,
+  "flag": "🇸🇯",
+  "lat": 78,
+  "lng": 20,
+  "aliases": [
+   "SJM",
+   "Svalbard og Jan Mayen",
+   "Svalbard and Jan Mayen Islands"
+  ],
+  "subregion": "Northern Europe",
+  "languages": [
+   "Norwegian"
+  ],
+  "currencies": [
+   "krone"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SK",
+  "iso3": "SVK",
+  "numeric": "703",
+  "name": "Slovakia",
+  "capital": "Bratislava",
+  "area": 48845,
+  "population": 5447011,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇸🇰",
+  "lat": 48.66666666,
+  "lng": 19.5,
+  "aliases": [
+   "SVK",
+   "Slovak Republic",
+   "Slovenská republika"
+  ],
+  "subregion": "Central Europe",
+  "languages": [
+   "Slovak"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AT",
+   "CZ",
+   "HU",
+   "PL",
+   "UA"
+  ],
+  "priceLevel": 0.59,
+  "priceYear": 2024,
+  "visitorSpend": 217,
+  "spendYear": 2018
+ },
+ {
+  "code": "SL",
+  "iso3": "SLE",
+  "numeric": "694",
+  "name": "Sierra Leone",
+  "capital": "Freetown",
+  "area": 71740,
+  "population": 7650154,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇱",
+  "lat": 8.5,
+  "lng": -11.5,
+  "aliases": [
+   "SLE",
+   "Republic of Sierra Leone"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Sierra Leonean leone"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GN",
+   "LR"
+  ],
+  "priceLevel": 0.249,
+  "priceYear": 2023,
+  "visitorSpend": 591,
+  "spendYear": 2018
+ },
+ {
+  "code": "SM",
+  "iso3": "SMR",
+  "numeric": "674",
+  "name": "San Marino",
+  "capital": "San Marino",
+  "area": 61.2,
+  "population": 33785,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇸🇲",
+  "lat": 43.76666666,
+  "lng": 12.41666666,
+  "aliases": [
+   "SMR",
+   "Most Serene Republic of San Marino",
+   "Republic of San Marino",
+   "Repubblica di San Marino"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Italian"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "IT"
+  ],
+  "priceLevel": 0.799,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SN",
+  "iso3": "SEN",
+  "numeric": "686",
+  "name": "Senegal",
+  "capital": "Dakar",
+  "area": 196190,
+  "population": 15854360,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇳",
+  "lat": 14,
+  "lng": -14,
+  "aliases": [
+   "SEN",
+   "Republic of Senegal",
+   "République du Sénégal"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GM",
+   "GN",
+   "GW",
+   "ML",
+   "MR"
+  ],
+  "priceLevel": 0.378,
+  "priceYear": 2024,
+  "visitorSpend": 342,
+  "spendYear": 2017
+ },
+ {
+  "code": "SO",
+  "iso3": "SOM",
+  "numeric": "706",
+  "name": "Somalia",
+  "capital": "Mogadishu",
+  "area": 637657,
+  "population": 15008154,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇴",
+  "lat": 10,
+  "lng": 49,
+  "aliases": [
+   "SOM",
+   "Federal Republic of Somalia",
+   "aṣ-Ṣūmāl",
+   "Jamhuuriyadda Federaalka Soomaaliya",
+   "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Arabic",
+   "Somali"
+  ],
+  "currencies": [
+   "Somali shilling"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DJ",
+   "ET",
+   "KE"
+  ],
+  "priceLevel": 0.377,
+  "priceYear": 2017,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SR",
+  "iso3": "SUR",
+  "numeric": "740",
+  "name": "Suriname",
+  "capital": "Paramaribo",
+  "area": 163270,
+  "population": 575991,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇸🇷",
+  "lat": 4,
+  "lng": -56,
+  "aliases": [
+   "SUR",
+   "Republic of Suriname",
+   "Sarnam",
+   "Sranangron",
+   "Republiek Suriname"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Dutch"
+  ],
+  "currencies": [
+   "Surinamese dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BR",
+   "GF",
+   "GY"
+  ],
+  "priceLevel": 0.443,
+  "priceYear": 2024,
+  "visitorSpend": 219,
+  "spendYear": 2017
+ },
+ {
+  "code": "ST",
+  "iso3": "STP",
+  "numeric": "678",
+  "name": "São Tomé and Príncipe",
+  "capital": "Sao Tome",
+  "area": 1001,
+  "population": 197700,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇹",
+  "lat": 1,
+  "lng": 7,
+  "aliases": [
+   "STP",
+   "Sao Tome and Principe",
+   "Democratic Republic of São Tomé and Príncipe",
+   "República Democrática de São Tomé e Príncipe"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   "São Tomé and Príncipe dobra"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.6,
+  "priceYear": 2024,
+  "visitorSpend": 2153,
+  "spendYear": 2018
+ },
+ {
+  "code": "SV",
+  "iso3": "SLV",
+  "numeric": "222",
+  "name": "El Salvador",
+  "capital": "San Salvador",
+  "area": 21040,
+  "population": 6420744,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇸🇻",
+  "lat": 13.83333333,
+  "lng": -88.91666666,
+  "aliases": [
+   "SLV",
+   "Republic of El Salvador",
+   "República de El Salvador"
+  ],
+  "subregion": "Central America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "GT",
+   "HN"
+  ],
+  "priceLevel": 0.48,
+  "priceYear": 2024,
+  "visitorSpend": 631,
+  "spendYear": 2019
+ },
+ {
+  "code": "SX",
+  "iso3": "SXM",
+  "numeric": "534",
+  "name": "Sint Maarten",
+  "capital": "Philipsburg",
+  "area": 21,
+  "population": 40654,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇸🇽",
+  "lat": 18.033333,
+  "lng": -63.05,
+  "aliases": [
+   "SXM",
+   "Sint Maarten (Dutch part)"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English",
+   "French",
+   "Dutch"
+  ],
+  "currencies": [
+   "Netherlands Antillean guilder"
+  ],
+  "landlocked": false,
+  "borders": [
+   "MF"
+  ],
+  "priceLevel": 0.859,
+  "priceYear": 2021,
+  "visitorSpend": 363,
+  "spendYear": 2019
+ },
+ {
+  "code": "SY",
+  "iso3": "SYR",
+  "numeric": "760",
+  "name": "Syria",
+  "capital": "Damascus",
+  "area": 185180,
+  "population": 16906283,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇸🇾",
+  "lat": 35,
+  "lng": 38,
+  "aliases": [
+   "SYR",
+   "Syrian Arab Republic",
+   "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Syrian pound"
+  ],
+  "landlocked": false,
+  "borders": [
+   "IQ",
+   "IL",
+   "JO",
+   "LB",
+   "TR"
+  ],
+  "priceLevel": 0.404,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "SZ",
+  "iso3": "SWZ",
+  "numeric": "748",
+  "name": "Eswatini",
+  "capital": "Mbabane",
+  "area": 17363,
+  "population": 1136191,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇸🇿",
+  "lat": -26.5,
+  "lng": 31.5,
+  "aliases": [
+   "SWZ",
+   "Kingdom of Eswatini",
+   "Swaziland",
+   "weSwatini",
+   "Swatini",
+   "Ngwane",
+   "Umbuso weSwatini"
+  ],
+  "subregion": "Southern Africa",
+  "languages": [
+   "English",
+   "Swazi"
+  ],
+  "currencies": [
+   "Swazi lilangeni",
+   "South African rand"
+  ],
+  "landlocked": true,
+  "borders": [
+   "MZ",
+   "ZA"
+  ],
+  "priceLevel": 0.419,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TC",
+  "iso3": "TCA",
+  "numeric": "796",
+  "name": "Turks and Caicos Islands",
+  "capital": "Cockburn Town",
+  "area": 430,
+  "population": 37665,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇹🇨",
+  "lat": 21.75,
+  "lng": -71.58333333,
+  "aliases": [
+   "TCA"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.317,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TD",
+  "iso3": "TCD",
+  "numeric": "148",
+  "name": "Chad",
+  "capital": "N'Djamena",
+  "area": 1284000,
+  "population": 15477751,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇹🇩",
+  "lat": 15,
+  "lng": 19,
+  "aliases": [
+   "TCD",
+   "Republic of Chad",
+   "Tchad",
+   "République du Tchad"
+  ],
+  "subregion": "Middle Africa",
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   "Central African CFA franc"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CM",
+   "CF",
+   "LY",
+   "NE",
+   "NG",
+   "SD"
+  ],
+  "priceLevel": 0.393,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TF",
+  "iso3": "ATF",
+  "numeric": "260",
+  "name": "French Southern and Antarctic Lands",
+  "capital": "Port-aux-Francais",
+  "area": 7829,
+  "population": 140,
+  "continent": "AN",
+  "sovereign": false,
+  "flag": "🇹🇫",
+  "lat": -49.25,
+  "lng": 69.167,
+  "aliases": [
+   "ATF",
+   "French Southern Territories",
+   "Territory of the French Southern and Antarctic Lands"
+  ],
+  "subregion": "AN",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TG",
+  "iso3": "TGO",
+  "numeric": "768",
+  "name": "Togo",
+  "capital": "Lome",
+  "area": 56785,
+  "population": 7889094,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇹🇬",
+  "lat": 8,
+  "lng": 1.16666666,
+  "aliases": [
+   "TGO",
+   "Togolese Republic",
+   "Togolese",
+   "République Togolaise"
+  ],
+  "subregion": "Western Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "West African CFA franc"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BJ",
+   "BF",
+   "GH"
+  ],
+  "priceLevel": 0.368,
+  "priceYear": 2024,
+  "visitorSpend": 301,
+  "spendYear": 2019
+ },
+ {
+  "code": "TH",
+  "iso3": "THA",
+  "numeric": "764",
+  "name": "Thailand",
+  "capital": "Bangkok",
+  "area": 514000,
+  "population": 69428524,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇹🇭",
+  "lat": 15,
+  "lng": 100,
+  "aliases": [
+   "THA",
+   "Kingdom of Thailand",
+   "Prathet",
+   "Thai",
+   "ราชอาณาจักรไทย",
+   "Ratcha Anachak Thai"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Thai"
+  ],
+  "currencies": [
+   "Thai baht"
+  ],
+  "landlocked": false,
+  "borders": [
+   "MM",
+   "KH",
+   "LA",
+   "MY"
+  ],
+  "priceLevel": 0.309,
+  "priceYear": 2024,
+  "visitorSpend": 1613,
+  "spendYear": 2019
+ },
+ {
+  "code": "TJ",
+  "iso3": "TJK",
+  "numeric": "762",
+  "name": "Tajikistan",
+  "capital": "Dushanbe",
+  "area": 143100,
+  "population": 9100837,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇹🇯",
+  "lat": 39,
+  "lng": 71,
+  "aliases": [
+   "TJK",
+   "Republic of Tajikistan",
+   "Toçikiston",
+   "Ҷумҳурии Тоҷикистон",
+   "Çumhuriyi Toçikiston"
+  ],
+  "subregion": "Central Asia",
+  "languages": [
+   "Russian",
+   "Tajik"
+  ],
+  "currencies": [
+   "Tajikistani somoni"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AF",
+   "CN",
+   "KG",
+   "UZ"
+  ],
+  "priceLevel": 0.285,
+  "priceYear": 2021,
+  "visitorSpend": 165,
+  "spendYear": 2018
+ },
+ {
+  "code": "TK",
+  "iso3": "TKL",
+  "numeric": "772",
+  "name": "Tokelau",
+  "capital": "",
+  "area": 10,
+  "population": 1466,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇹🇰",
+  "lat": -9,
+  "lng": -172,
+  "aliases": [
+   "TKL"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Samoan",
+   "Tokelauan"
+  ],
+  "currencies": [
+   "New Zealand dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TL",
+  "iso3": "TLS",
+  "numeric": "626",
+  "name": "Timor-Leste",
+  "capital": "Dili",
+  "area": 15007,
+  "population": 1267972,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇹🇱",
+  "lat": -8.83333333,
+  "lng": 125.91666666,
+  "aliases": [
+   "TLS",
+   "Timor Leste",
+   "Democratic Republic of Timor-Leste",
+   "East Timor",
+   "Timor",
+   "República Democrática de Timor-Leste",
+   "Repúblika Demokrátika Timór-Leste",
+   "Timór Lorosa'e",
+   "Timor Lorosae"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Portuguese",
+   "Tetum"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "ID"
+  ],
+  "priceLevel": 0.456,
+  "priceYear": 2024,
+  "visitorSpend": 1046,
+  "spendYear": 2018
+ },
+ {
+  "code": "TM",
+  "iso3": "TKM",
+  "numeric": "795",
+  "name": "Turkmenistan",
+  "capital": "Ashgabat",
+  "area": 488100,
+  "population": 5850908,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇹🇲",
+  "lat": 40,
+  "lng": 60,
+  "aliases": [
+   "TKM"
+  ],
+  "subregion": "Central Asia",
+  "languages": [
+   "Russian",
+   "Turkmen"
+  ],
+  "currencies": [
+   "Turkmenistan manat"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AF",
+   "IR",
+   "KZ",
+   "UZ"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TN",
+  "iso3": "TUN",
+  "numeric": "788",
+  "name": "Tunisia",
+  "capital": "Tunis",
+  "area": 163610,
+  "population": 11565204,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇹🇳",
+  "lat": 34,
+  "lng": 9,
+  "aliases": [
+   "TUN",
+   "Tunisian Republic",
+   "Republic of Tunisia",
+   "al-Jumhūriyyah at-Tūnisiyyah"
+  ],
+  "subregion": "Northern Africa",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Tunisian dinar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "DZ",
+   "LY"
+  ],
+  "priceLevel": 0.308,
+  "priceYear": 2024,
+  "visitorSpend": 285,
+  "spendYear": 2019
+ },
+ {
+  "code": "TO",
+  "iso3": "TON",
+  "numeric": "776",
+  "name": "Tonga",
+  "capital": "Nuku'alofa",
+  "area": 748,
+  "population": 103197,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇹🇴",
+  "lat": -20,
+  "lng": -175,
+  "aliases": [
+   "TON",
+   "Kingdom of Tonga"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Tongan"
+  ],
+  "currencies": [
+   "Tongan paʻanga"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.769,
+  "priceYear": 2024,
+  "visitorSpend": 607,
+  "spendYear": 2019
+ },
+ {
+  "code": "TR",
+  "iso3": "TUR",
+  "numeric": "792",
+  "name": "Türkiye",
+  "capital": "Ankara",
+  "area": 780580,
+  "population": 82319724,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇹🇷",
+  "lat": 39,
+  "lng": 35,
+  "aliases": [
+   "TUR",
+   "Turkey",
+   "Republic of Türkiye",
+   "Turkiye",
+   "Republic of Turkey",
+   "Türkiye Cumhuriyeti"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Turkish"
+  ],
+  "currencies": [
+   "Turkish lira"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AM",
+   "AZ",
+   "BG",
+   "GE",
+   "GR",
+   "IR",
+   "IQ",
+   "SY"
+  ],
+  "priceLevel": 0.383,
+  "priceYear": 2024,
+  "visitorSpend": 800,
+  "spendYear": 2019
+ },
+ {
+  "code": "TT",
+  "iso3": "TTO",
+  "numeric": "780",
+  "name": "Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "area": 5128,
+  "population": 1389858,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇹🇹",
+  "lat": 11,
+  "lng": -61,
+  "aliases": [
+   "TTO",
+   "Republic of Trinidad and Tobago"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Trinidad and Tobago dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.579,
+  "priceYear": 2024,
+  "visitorSpend": 1002,
+  "spendYear": 2019
+ },
+ {
+  "code": "TV",
+  "iso3": "TUV",
+  "numeric": "798",
+  "name": "Tuvalu",
+  "capital": "Funafuti",
+  "area": 26,
+  "population": 11508,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇹🇻",
+  "lat": -8,
+  "lng": 178,
+  "aliases": [
+   "TUV"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Tuvaluan"
+  ],
+  "currencies": [
+   "Australian dollar",
+   "Tuvaluan dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.972,
+  "priceYear": 2021,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TW",
+  "iso3": "TWN",
+  "numeric": "158",
+  "name": "Taiwan",
+  "capital": "Taipei",
+  "area": 35980,
+  "population": 23451837,
+  "continent": "AS",
+  "sovereign": false,
+  "flag": "🇹🇼",
+  "lat": 23.5,
+  "lng": 121,
+  "aliases": [
+   "TWN",
+   "Republic of China (Taiwan)",
+   "Táiwān",
+   "Republic of China",
+   "中華民國",
+   "Zhōnghuá Mínguó",
+   "Chinese Taipei"
+  ],
+  "subregion": "Eastern Asia",
+  "languages": [
+   "Chinese"
+  ],
+  "currencies": [
+   "New Taiwan dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "TZ",
+  "iso3": "TZA",
+  "numeric": "834",
+  "name": "Tanzania",
+  "capital": "Dodoma",
+  "area": 945087,
+  "population": 56318348,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇹🇿",
+  "lat": -6,
+  "lng": 35,
+  "aliases": [
+   "TZA",
+   "United Republic of Tanzania",
+   "Tanzania, United Republic of",
+   "Jamhuri ya Muungano wa Tanzania"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   "Tanzanian shilling"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BI",
+   "CD",
+   "KE",
+   "MW",
+   "MZ",
+   "RW",
+   "UG",
+   "ZM"
+  ],
+  "priceLevel": 0.253,
+  "priceYear": 2024,
+  "visitorSpend": 1719,
+  "spendYear": 2019
+ },
+ {
+  "code": "UA",
+  "iso3": "UKR",
+  "numeric": "804",
+  "name": "Ukraine",
+  "capital": "Kyiv",
+  "area": 603700,
+  "population": 40000000,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇺🇦",
+  "lat": 49,
+  "lng": 32,
+  "aliases": [
+   "UKR",
+   "Ukrayina"
+  ],
+  "subregion": "Eastern Europe",
+  "languages": [
+   "Ukrainian"
+  ],
+  "currencies": [
+   "Ukrainian hryvnia"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BY",
+   "HU",
+   "MD",
+   "PL",
+   "RO",
+   "RU",
+   "SK"
+  ],
+  "priceLevel": 0.269,
+  "priceYear": 2024,
+  "visitorSpend": 189,
+  "spendYear": 2019
+ },
+ {
+  "code": "UG",
+  "iso3": "UGA",
+  "numeric": "800",
+  "name": "Uganda",
+  "capital": "Kampala",
+  "area": 236040,
+  "population": 42723139,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇺🇬",
+  "lat": 1,
+  "lng": 32,
+  "aliases": [
+   "UGA",
+   "Republic of Uganda",
+   "Jamhuri ya Uganda"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   "Ugandan shilling"
+  ],
+  "landlocked": true,
+  "borders": [
+   "CD",
+   "KE",
+   "RW",
+   "SS",
+   "TZ"
+  ],
+  "priceLevel": 0.353,
+  "priceYear": 2024,
+  "visitorSpend": 907,
+  "spendYear": 2019
+ },
+ {
+  "code": "UM",
+  "iso3": "UMI",
+  "numeric": "581",
+  "name": "United States Minor Outlying Islands",
+  "capital": "",
+  "area": 0,
+  "population": 0,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇺🇲",
+  "lat": 19.3,
+  "lng": 166.633333,
+  "aliases": [
+   "UMI"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "US",
+  "iso3": "USA",
+  "numeric": "840",
+  "name": "United States",
+  "capital": "Washington",
+  "area": 9629091,
+  "population": 327167434,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇺🇸",
+  "lat": 38,
+  "lng": -97,
+  "aliases": [
+   "USA",
+   "United States of America",
+   "America"
+  ],
+  "subregion": "North America",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [
+   "CA",
+   "MX"
+  ],
+  "priceLevel": 1,
+  "priceYear": 2024,
+  "visitorSpend": 1447,
+  "spendYear": 2019
+ },
+ {
+  "code": "UY",
+  "iso3": "URY",
+  "numeric": "858",
+  "name": "Uruguay",
+  "capital": "Montevideo",
+  "area": 176220,
+  "population": 3449299,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇺🇾",
+  "lat": -33,
+  "lng": -56,
+  "aliases": [
+   "URY",
+   "Oriental Republic of Uruguay",
+   "República Oriental del Uruguay"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Uruguayan peso"
+  ],
+  "landlocked": false,
+  "borders": [
+   "AR",
+   "BR"
+  ],
+  "priceLevel": 0.729,
+  "priceYear": 2024,
+  "visitorSpend": 671,
+  "spendYear": 2019
+ },
+ {
+  "code": "UZ",
+  "iso3": "UZB",
+  "numeric": "860",
+  "name": "Uzbekistan",
+  "capital": "Tashkent",
+  "area": 447400,
+  "population": 32955400,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇺🇿",
+  "lat": 41,
+  "lng": 64,
+  "aliases": [
+   "UZB",
+   "Republic of Uzbekistan",
+   "O‘zbekiston Respublikasi",
+   "Ўзбекистон Республикаси"
+  ],
+  "subregion": "Central Asia",
+  "languages": [
+   "Russian",
+   "Uzbek"
+  ],
+  "currencies": [
+   "Uzbekistani soʻm"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AF",
+   "KZ",
+   "KG",
+   "TJ",
+   "TM"
+  ],
+  "priceLevel": 0.267,
+  "priceYear": 2024,
+  "visitorSpend": 249,
+  "spendYear": 2019
+ },
+ {
+  "code": "VA",
+  "iso3": "VAT",
+  "numeric": "336",
+  "name": "Vatican City",
+  "capital": "Vatican City",
+  "area": 0.44,
+  "population": 921,
+  "continent": "EU",
+  "sovereign": true,
+  "flag": "🇻🇦",
+  "lat": 41.9,
+  "lng": 12.45,
+  "aliases": [
+   "VAT",
+   "Vatican",
+   "Vatican City State",
+   "Holy See (Vatican City State)",
+   "Stato della Città del Vaticano",
+   "Holy See"
+  ],
+  "subregion": "Southern Europe",
+  "languages": [
+   "Italian",
+   "Latin"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": true,
+  "borders": [
+   "IT"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "VC",
+  "iso3": "VCT",
+  "numeric": "670",
+  "name": "Saint Vincent and the Grenadines",
+  "capital": "Kingstown",
+  "area": 389,
+  "population": 110211,
+  "continent": "NA",
+  "sovereign": true,
+  "flag": "🇻🇨",
+  "lat": 13.25,
+  "lng": -61.2,
+  "aliases": [
+   "VCT"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Eastern Caribbean dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.633,
+  "priceYear": 2024,
+  "visitorSpend": 651,
+  "spendYear": 2019
+ },
+ {
+  "code": "VE",
+  "iso3": "VEN",
+  "numeric": "862",
+  "name": "Venezuela",
+  "capital": "Caracas",
+  "area": 912050,
+  "population": 28870195,
+  "continent": "SA",
+  "sovereign": true,
+  "flag": "🇻🇪",
+  "lat": 8,
+  "lng": -66,
+  "aliases": [
+   "VEN",
+   "Bolivarian Republic of Venezuela",
+   "Venezuela, Bolivarian Republic of",
+   "República Bolivariana de Venezuela"
+  ],
+  "subregion": "South America",
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   "Venezuelan bolívar soberano"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BR",
+   "CO",
+   "GY"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 802,
+  "spendYear": 2016
+ },
+ {
+  "code": "VG",
+  "iso3": "VGB",
+  "numeric": "092",
+  "name": "British Virgin Islands",
+  "capital": "Road Town",
+  "area": 153,
+  "population": 29802,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇻🇬",
+  "lat": 18.431383,
+  "lng": -64.62305,
+  "aliases": [
+   "VGB",
+   "Virgin Islands",
+   "Virgin Islands, British"
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 1232,
+  "spendYear": 2015
+ },
+ {
+  "code": "VI",
+  "iso3": "VIR",
+  "numeric": "850",
+  "name": "United States Virgin Islands",
+  "capital": "Charlotte Amalie",
+  "area": 352,
+  "population": 106977,
+  "continent": "NA",
+  "sovereign": false,
+  "flag": "🇻🇮",
+  "lat": 18.35,
+  "lng": -64.933333,
+  "aliases": [
+   "VIR",
+   "U.S. Virgin Islands",
+   "Virgin Islands of the United States",
+   "Virgin Islands, U.S."
+  ],
+  "subregion": "Caribbean",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "United States dollar"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.01,
+  "priceYear": 2021,
+  "visitorSpend": 497,
+  "spendYear": 2019
+ },
+ {
+  "code": "VN",
+  "iso3": "VNM",
+  "numeric": "704",
+  "name": "Vietnam",
+  "capital": "Hanoi",
+  "area": 329560,
+  "population": 95540395,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇻🇳",
+  "lat": 16.16666666,
+  "lng": 107.83333333,
+  "aliases": [
+   "VNM",
+   "Socialist Republic of Vietnam",
+   "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+   "Viet Nam"
+  ],
+  "subregion": "South-Eastern Asia",
+  "languages": [
+   "Vietnamese"
+  ],
+  "currencies": [
+   "Vietnamese đồng"
+  ],
+  "landlocked": false,
+  "borders": [
+   "KH",
+   "CN",
+   "LA"
+  ],
+  "priceLevel": 0.296,
+  "priceYear": 2024,
+  "visitorSpend": 657,
+  "spendYear": 2019
+ },
+ {
+  "code": "VU",
+  "iso3": "VUT",
+  "numeric": "548",
+  "name": "Vanuatu",
+  "capital": "Port Vila",
+  "area": 12200,
+  "population": 292680,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇻🇺",
+  "lat": -16,
+  "lng": 167,
+  "aliases": [
+   "VUT",
+   "Republic of Vanuatu",
+   "Ripablik blong Vanuatu",
+   "République de Vanuatu"
+  ],
+  "subregion": "Melanesia",
+  "languages": [
+   "Bislama",
+   "English",
+   "French"
+  ],
+  "currencies": [
+   "Vanuatu vatu"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 1.047,
+  "priceYear": 2024,
+  "visitorSpend": 1152,
+  "spendYear": 2019
+ },
+ {
+  "code": "WF",
+  "iso3": "WLF",
+  "numeric": "876",
+  "name": "Wallis and Futuna",
+  "capital": "Mata Utu",
+  "area": 274,
+  "population": 16025,
+  "continent": "OC",
+  "sovereign": false,
+  "flag": "🇼🇫",
+  "lat": -13.3,
+  "lng": -176.2,
+  "aliases": [
+   "WLF",
+   "Territory of the Wallis and Futuna Islands",
+   "Territoire des îles Wallis et Futuna"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "CFP franc"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "WS",
+  "iso3": "WSM",
+  "numeric": "882",
+  "name": "Samoa",
+  "capital": "Apia",
+  "area": 2944,
+  "population": 196130,
+  "continent": "OC",
+  "sovereign": true,
+  "flag": "🇼🇸",
+  "lat": -13.58333333,
+  "lng": -172.33333333,
+  "aliases": [
+   "WSM",
+   "Independent State of Samoa",
+   "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+  ],
+  "subregion": "Polynesia",
+  "languages": [
+   "English",
+   "Samoan"
+  ],
+  "currencies": [
+   "Samoan tālā"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": 0.687,
+  "priceYear": 2024,
+  "visitorSpend": 1139,
+  "spendYear": 2019
+ },
+ {
+  "code": "YE",
+  "iso3": "YEM",
+  "numeric": "887",
+  "name": "Yemen",
+  "capital": "Sanaa",
+  "area": 527970,
+  "population": 28498687,
+  "continent": "AS",
+  "sovereign": true,
+  "flag": "🇾🇪",
+  "lat": 15,
+  "lng": 48,
+  "aliases": [
+   "YEM",
+   "Republic of Yemen",
+   "Yemeni Republic",
+   "al-Jumhūriyyah al-Yamaniyyah"
+  ],
+  "subregion": "Western Asia",
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   "Yemeni rial"
+  ],
+  "landlocked": false,
+  "borders": [
+   "OM",
+   "SA"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 291,
+  "spendYear": 2015
+ },
+ {
+  "code": "YT",
+  "iso3": "MYT",
+  "numeric": "175",
+  "name": "Mayotte",
+  "capital": "Mamoudzou",
+  "area": 374,
+  "population": 279471,
+  "continent": "AF",
+  "sovereign": false,
+  "flag": "🇾🇹",
+  "lat": -12.83333333,
+  "lng": 45.16666666,
+  "aliases": [
+   "MYT",
+   "Department of Mayotte",
+   "Département de Mayotte"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   "Euro"
+  ],
+  "landlocked": false,
+  "borders": [],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "ZA",
+  "iso3": "ZAF",
+  "numeric": "710",
+  "name": "South Africa",
+  "capital": "Pretoria",
+  "area": 1219912,
+  "population": 57779622,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇿🇦",
+  "lat": -29,
+  "lng": 24,
+  "aliases": [
+   "ZAF",
+   "Republic of South Africa",
+   "RSA",
+   "Suid-Afrika"
+  ],
+  "subregion": "Southern Africa",
+  "languages": [
+   "Afrikaans",
+   "English",
+   "Southern Ndebele",
+   "Northern Sotho",
+   "Southern Sotho",
+   "Swazi",
+   "Tswana",
+   "Tsonga",
+   "Venda",
+   "Xhosa",
+   "Zulu"
+  ],
+  "currencies": [
+   "South African rand"
+  ],
+  "landlocked": false,
+  "borders": [
+   "BW",
+   "LS",
+   "MZ",
+   "NA",
+   "SZ",
+   "ZW"
+  ],
+  "priceLevel": 0.42,
+  "priceYear": 2024,
+  "visitorSpend": 613,
+  "spendYear": 2019
+ },
+ {
+  "code": "ZM",
+  "iso3": "ZMB",
+  "numeric": "894",
+  "name": "Zambia",
+  "capital": "Lusaka",
+  "area": 752614,
+  "population": 17351822,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇿🇲",
+  "lat": -15,
+  "lng": 30,
+  "aliases": [
+   "ZMB",
+   "Republic of Zambia"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   "Zambian kwacha"
+  ],
+  "landlocked": true,
+  "borders": [
+   "AO",
+   "BW",
+   "CD",
+   "MW",
+   "MZ",
+   "NA",
+   "TZ",
+   "ZW"
+  ],
+  "priceLevel": 0.289,
+  "priceYear": 2024,
+  "visitorSpend": null,
+  "spendYear": null
+ },
+ {
+  "code": "ZW",
+  "iso3": "ZWE",
+  "numeric": "716",
+  "name": "Zimbabwe",
+  "capital": "Harare",
+  "area": 390580,
+  "population": 16868409,
+  "continent": "AF",
+  "sovereign": true,
+  "flag": "🇿🇼",
+  "lat": -20,
+  "lng": 30,
+  "aliases": [
+   "ZWE",
+   "Republic of Zimbabwe"
+  ],
+  "subregion": "Eastern Africa",
+  "languages": [
+   "Chibarwe",
+   "English",
+   "Kalanga",
+   "Khoisan",
+   "Ndau",
+   "Northern Ndebele",
+   "Chewa",
+   "Shona",
+   "Sotho",
+   "Tonga",
+   "Tswana",
+   "Tsonga",
+   "Venda",
+   "Xhosa",
+   "Zimbabwean Sign Language"
+  ],
+  "currencies": [
+   "Botswana pula",
+   "Chinese yuan",
+   "Euro",
+   "British pound",
+   "Indian rupee",
+   "Japanese yen",
+   "United States dollar",
+   "South African rand",
+   "Zimbabwean bonds"
+  ],
+  "landlocked": true,
+  "borders": [
+   "BW",
+   "MZ",
+   "ZA",
+   "ZM"
+  ],
+  "priceLevel": null,
+  "priceYear": null,
+  "visitorSpend": 124,
+  "spendYear": 2019
+ }
+]
