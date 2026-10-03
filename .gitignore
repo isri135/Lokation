@@ -29,3 +29,6 @@ dist-ssr
 # Vercel CLI
 .vercel
 .env*.local
+
+# Screenshots from local browser testing
+/*.png
