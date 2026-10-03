@@ -5,19 +5,11 @@ import { StatsSection } from './components/StatsSection'
 import { WhereNext } from './components/WhereNext'
 import { loadCities, type IndexedCity } from './lib/cities'
 import { recommend } from './lib/recommend'
-import { useCloudSync, type Account, type SyncStatus } from './lib/cloud'
 import { useHidden } from './lib/useHidden'
 import { useVisits } from './lib/useVisits'
 import type { City, Country } from './types'
 
-interface Props {
-  account: Account
-  startUnsaved: boolean
-  startedOffline: boolean
-  onSignOut: () => void
-}
-
-export default function App({ account, startUnsaved, startedOffline, onSignOut }: Props) {
+export default function App() {
   const {
     visits,
     countryVisits,
@@ -29,14 +21,11 @@ export default function App({ account, startUnsaved, startedOffline, onSignOut }
     rateCountry,
     importLog,
     clear,
-  } = useVisits(account.data)
+  } = useVisits()
   const [cities, setCities] = useState<IndexedCity[] | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
   const [focus, setFocus] = useState<FocusTarget | null>(null)
-  const { hidden, hideCity, hideCountry, unhideAll } = useHidden(account.data.hidden)
-
-  const userData = useMemo(() => ({ visits, countries: countryVisits, hidden }), [visits, countryVisits, hidden])
-  const syncStatus = useCloudSync(account.name, userData, startUnsaved)
+  const { hidden, hideCity, hideCountry, unhideAll } = useHidden()
 
   useEffect(() => {
     loadCities().then(setCities, (err: Error) => setLoadError(err.message))
@@ -125,7 +114,6 @@ export default function App({ account, startUnsaved, startedOffline, onSignOut }
             <span className="dot" aria-hidden="true">·</span>
             <strong>{countryCount}</strong> {countryCount === 1 ? 'country' : 'countries'}
           </div>
-          <AccountChip name={account.name} status={syncStatus} offline={startedOffline} onSignOut={onSignOut} />
         </header>
 
         <a className="scroll-cue" href="#stats">
@@ -177,41 +165,5 @@ export default function App({ account, startUnsaved, startedOffline, onSignOut }
         onClear={clear}
       />
     </>
-  )
-}
-
-const STATUS_TEXT: Record<SyncStatus, string> = {
-  saved: 'Saved',
-  saving: 'Saving…',
-  error: 'Not saved yet, retrying',
-}
-
-/** Who's signed in, whether their changes are saved, and a way to switch person. */
-function AccountChip({
-  name,
-  status,
-  offline,
-  onSignOut,
-}: {
-  name: string
-  status: SyncStatus
-  offline: boolean
-  onSignOut: () => void
-}) {
-  // Until the first save succeeds, an offline start is still offline.
-  const text = offline && status === 'saved' ? 'Offline copy' : STATUS_TEXT[status]
-  return (
-    <div className={`account account-${status}`}>
-      <span className="account-name" title={`Signed in as ${name}`}>
-        {name}
-      </span>
-      <span className="account-status" role="status">
-        <span className="account-dot" aria-hidden="true" />
-        {text}
-      </span>
-      <button className="link-btn" onClick={onSignOut}>
-        Switch
-      </button>
-    </div>
   )
 }

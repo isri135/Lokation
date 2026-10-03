@@ -1,10 +1,10 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import type { City, CountryVisit, Rating, Visit } from '../types'
 import { countryByCode } from './countries'
+import { recoverSignedInCopy } from './recover'
 
-// Where this browser stored the log before sign-in existed (read once, for migration).
-const LEGACY_VISITS_KEY = 'lokation.visits.v1'
-const LEGACY_COUNTRIES_KEY = 'lokation.countries.v1'
+const VISITS_KEY = 'lokation.visits.v1'
+const COUNTRIES_KEY = 'lokation.countries.v1'
 
 const asRating = (r: unknown): Rating | undefined =>
   typeof r === 'number' && Number.isInteger(r) && r >= 1 && r <= 5 ? (r as Rating) : undefined
@@ -71,7 +71,7 @@ export function parseTravelLog(json: string): TravelLog {
   }
 }
 
-/** Cleans a log that came from the server or a cache, dropping anything malformed. */
+/** Cleans a stored log, dropping anything malformed. */
 export function sanitizeTravelLog(data: unknown): TravelLog {
   const obj = (data ?? {}) as { visits?: unknown; countries?: unknown }
   return {
@@ -81,18 +81,28 @@ export function sanitizeTravelLog(data: unknown): TravelLog {
 }
 
 /**
- * The log this browser kept before accounts existed, so it can be uploaded on
- * someone's first sign-in. Null if there isn't one.
+ * Loads the log saved in this browser. If it isn't there (a version with sign-in
+ * moved it into a per-person cache), recovers that copy instead.
  */
-export function loadLegacyLog(): TravelLog | null {
+export function loadTravelLog(): TravelLog {
   try {
-    const log = sanitizeTravelLog({
-      visits: JSON.parse(localStorage.getItem(LEGACY_VISITS_KEY) ?? '[]'),
-      countries: JSON.parse(localStorage.getItem(LEGACY_COUNTRIES_KEY) ?? '[]'),
+    const visits = localStorage.getItem(VISITS_KEY)
+    const countries = localStorage.getItem(COUNTRIES_KEY)
+    if (visits === null && countries === null) return sanitizeTravelLog(recoverSignedInCopy())
+    return sanitizeTravelLog({
+      visits: JSON.parse(visits ?? '[]'),
+      countries: JSON.parse(countries ?? '[]'),
     })
-    return log.visits.length || log.countries.length ? log : null
   } catch {
-    return null
+    return { visits: [], countries: [] }
+  }
+}
+
+function save(key: string, value: unknown) {
+  try {
+    localStorage.setItem(key, JSON.stringify(value))
+  } catch {
+    // Storage full or unavailable – the session still works in memory.
   }
 }
 
@@ -102,10 +112,13 @@ const withoutCovered = (countries: CountryVisit[], visits: Visit[]) => {
   return countries.filter((c) => !covered.has(c.code))
 }
 
-/** The signed-in person's log. Saving is handled by the caller (see useCloudSync). */
-export function useVisits(initial: TravelLog) {
+export function useVisits() {
+  const [initial] = useState(loadTravelLog)
   const [visits, setVisits] = useState<Visit[]>(initial.visits)
   const [countryVisits, setCountryVisits] = useState<CountryVisit[]>(initial.countries)
+
+  useEffect(() => save(VISITS_KEY, visits), [visits])
+  useEffect(() => save(COUNTRIES_KEY, countryVisits), [countryVisits])
 
   const add = useCallback((city: City) => {
     setVisits((prev) =>
@@ -193,12 +206,3 @@ export function useVisits(initial: TravelLog) {
   }
 }
 
-/** Called once the pre-sign-in log has been given to an account, so no one else picks it up. */
-export function clearLegacyLog() {
-  try {
-    localStorage.removeItem(LEGACY_VISITS_KEY)
-    localStorage.removeItem(LEGACY_COUNTRIES_KEY)
-  } catch {
-    // Nothing to clear if storage is unavailable.
-  }
-}

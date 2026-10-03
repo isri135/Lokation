@@ -1,7 +1,7 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
+import { recoverSignedInCopy } from './recover'
 
-// Where this browser stored hides before sign-in existed (read once, for migration).
-const LEGACY_KEY = 'lokation.hidden.v1'
+const STORAGE_KEY = 'lokation.hidden.v1'
 
 /** Suggestions the user said "not for me" to: individual cities or whole countries. */
 export interface Hidden {
@@ -9,10 +9,10 @@ export interface Hidden {
   countries: { code: string; name: string }[]
 }
 
-export const NO_HIDDEN: Hidden = { cities: [], countries: [] }
+const NO_HIDDEN: Hidden = { cities: [], countries: [] }
 
-/** Cleans hides that came from the server or a cache, dropping anything malformed. */
-export function sanitizeHidden(data: unknown): Hidden {
+/** Cleans stored hides, dropping anything malformed. */
+function sanitizeHidden(data: unknown): Hidden {
   const h = (data ?? {}) as Partial<Hidden>
   return {
     cities: Array.isArray(h.cities)
@@ -24,20 +24,26 @@ export function sanitizeHidden(data: unknown): Hidden {
   }
 }
 
-export function loadLegacyHidden(): Hidden | null {
+/** Loads saved hides, recovering them from a sign-in version's cache if needed. */
+function load(): Hidden {
   try {
-    const raw = localStorage.getItem(LEGACY_KEY)
-    if (!raw) return null
-    const h = sanitizeHidden(JSON.parse(raw))
-    return h.cities.length || h.countries.length ? h : null
+    const raw = localStorage.getItem(STORAGE_KEY)
+    return raw === null ? sanitizeHidden(recoverSignedInCopy()?.hidden) : sanitizeHidden(JSON.parse(raw))
   } catch {
-    return null
+    return NO_HIDDEN
   }
 }
 
-/** The signed-in person's hides. Saving is handled by the caller (see useCloudSync). */
-export function useHidden(initial: Hidden) {
-  const [hidden, setHidden] = useState<Hidden>(initial)
+export function useHidden() {
+  const [hidden, setHidden] = useState<Hidden>(load)
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(hidden))
+    } catch {
+      // Unavailable storage just means hides last for this session.
+    }
+  }, [hidden])
 
   const hideCity = useCallback((id: number, name: string) => {
     setHidden((h) => (h.cities.some((c) => c.id === id) ? h : { ...h, cities: [...h.cities, { id, name }] }))
@@ -52,13 +58,4 @@ export function useHidden(initial: Hidden) {
   const unhideAll = useCallback(() => setHidden(NO_HIDDEN), [])
 
   return { hidden, hideCity, hideCountry, unhideAll }
-}
-
-/** Called once the pre-sign-in hides have been given to an account. */
-export function clearLegacyHidden() {
-  try {
-    localStorage.removeItem(LEGACY_KEY)
-  } catch {
-    // Nothing to clear if storage is unavailable.
-  }
 }

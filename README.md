@@ -6,7 +6,7 @@ Lokation is a personal travel tracker. Log the cities you've been to, see them o
 
 ```sh
 npm install
-npm run dev       # http://localhost:5173 (saves to .data/users.json instead of the online database)
+npm run dev       # http://localhost:5173
 npm run build     # production build in dist/
 npm test          # recommender tests, including a leave-one-out accuracy check
 ```
@@ -26,25 +26,11 @@ npm test          # recommender tests, including a leave-one-out accuracy check
 
   Both appear on the map as dashed rings (blue and violet). **Not for me** hides a suggested city or its whole country, and you can undo it.
 - **Your countries compared:** charts of each visited country's population, area, price level and typical visitor spend against the world median, plus a table of every feature the recommender uses.
-- **Signing in:** type your name to open your map; names aren't case-sensitive. There's no password, so anyone who enters your name can see and change your map. Changes save automatically. A map this browser kept before sign-in existed is uploaded the first time you sign in. **Export** and **Import** still work for backups.
+- **Your data** stays in your browser (localStorage), so each person who opens the app has their own map on their own device. Use **Export** and **Import** to back it up or move it to another device.
 
-## Deploying (Vercel + a free database)
+## Deploying
 
-The app is a static Vite site plus one serverless function, [`api/user.ts`](api/user.ts), which stores each person's map as one JSON document keyed by their lowercased name. It uses **Supabase** (Postgres, free plan); it also works with Upstash Redis or any Redis URL if one of those is configured instead.
-
-1. **Import the repo on Vercel:** [vercel.com/new](https://vercel.com/new) → pick this GitHub repo → **Deploy**. Vercel detects Vite; no settings needed.
-2. **Add Supabase**, either way:
-   - **From Vercel (easiest):** in the project, open **Storage** → **Create Database** → **Supabase** (free plan) → connect it to the project for all environments. This adds `POSTGRES_URL` and related settings automatically.
-   - **With an existing Supabase project:** in Supabase, click **Connect**, copy the **Transaction pooler** connection string (port 6543) and put your database password in it. In Vercel, add it under **Settings → Environment Variables** as `POSTGRES_URL`.
-3. **Redeploy** (Deployments → ⋯ → Redeploy) so the function picks up the setting.
-
-The function creates its table (`lokation_users`) on first use, with row-level security on so Supabase's public data API can't read it. There's no SQL to run.
-
-Until the database is connected, signing in shows "The database is not configured", followed by which settings it found. Every push to `main` redeploys automatically.
-
-**Free plan note:** Supabase pauses free projects after a week with no activity. If the app shows a database error after a quiet spell, open the project in Supabase and click **Restore**; nothing is lost.
-
-If two people save the same map at the same moment, the later save wins; for a few friends with distinct names that's fine.
+The app is a static site, deployed on Vercel from this repo: every push to `main` redeploys automatically. There's no server or database; each visitor's map is saved in their own browser.
 
 ## Data
 

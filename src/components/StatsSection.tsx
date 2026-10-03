@@ -242,7 +242,7 @@ export function StatsSection({
 
       <footer className="credits">
         City and country data from GeoNames (CC BY
-        4.0). Cost figures from the World Bank (CC BY 4.0). Country shapes from Natural Earth. Your map is saved online under your name.
+        4.0). Cost figures from the World Bank (CC BY 4.0). Country shapes from Natural Earth. Your list is stored only in this browser.
       </footer>
     </section>
   )
